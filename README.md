@@ -40,7 +40,7 @@ ProyectoSABI/
 
 ## 🚀 Instalación (Windows / PowerShell)
 
-``powershell
+```powershell
 git clone https://github.com/<tu-usuario>/<tu-repo>.git
 cd <tu-repo>
 
@@ -224,4 +224,4 @@ pip install pyinstaller
 pyinstaller --noconfirm --onefile --name SabiTutor main_pygame.py ^
   --add-data "assets;assets" ^
   --hidden-import pygame
-# Salida en dist/SabiTutor.exe
+
