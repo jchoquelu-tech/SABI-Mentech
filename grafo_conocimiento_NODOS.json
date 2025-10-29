@@ -1,0 +1,3410 @@
+[
+  {
+    "id": "1_ARIT_01",
+    "concepto": "Sistemas de Numeración",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_02",
+    "concepto": "Ejercicios de Cambio de Base",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_03",
+    "concepto": "Ejercicios de Divisibilidad",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_04",
+    "concepto": "Máximo Común Divisor y Mínimo Común Múltiplo",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_05",
+    "concepto": "Números Primos en los Enteros",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_06",
+    "concepto": "Números Enteros",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_07",
+    "concepto": "Adición de Números Enteros",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_08",
+    "concepto": "Sustracción de Números Enteros",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_09",
+    "concepto": "Ejercicios de Adición y Sustracción",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_10",
+    "concepto": "Multiplicación de Números Enteros",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_11",
+    "concepto": "División de Números Enteros",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_12",
+    "concepto": "Ejercicios de Multiplicación y División",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_13",
+    "concepto": "Potenciación de Números Enteros",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_14",
+    "concepto": "Radicación de Números Enteros",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_15",
+    "concepto": "Ejercicios de Potenciación y Radicación",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_16",
+    "concepto": "Adición de Números Racionales",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_17",
+    "concepto": "Sustracción de Números Racionales",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_18",
+    "concepto": "Multiplicación de Números Racionales",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_19",
+    "concepto": "Razón Aritmética y Geométrica",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_20",
+    "concepto": "Proporción Aritmética y Geométrica",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_21",
+    "concepto": "Magnitudes Proporcionales",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_22",
+    "concepto": "Reparto Proporcional",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_23",
+    "concepto": "Promedio Aritmético y Geométrico",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_24",
+    "concepto": "Tanto por Ciento",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ARIT_25",
+    "concepto": "Aumentos y Descuentos",
+    "materia": "Aritmética",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_01",
+    "concepto": "Revisión de Elementos Algebraicos",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_02",
+    "concepto": "Los Signos de Agrupación",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_03",
+    "concepto": "Resolución de Ecuaciones",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_04",
+    "concepto": "Planteo de Ecuaciones ejercicios",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_05",
+    "concepto": "Los Monomios",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_06",
+    "concepto": "Los Polinomios",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_07",
+    "concepto": "Término Algebraico",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_08",
+    "concepto": "Polinomios Homogéneos y Completos",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_09",
+    "concepto": "Polinomios Idénticos",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_10",
+    "concepto": "Valor Numérico",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_11",
+    "concepto": "Binomio al Cuadrado y Diferencia de Cuadrados",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_12",
+    "concepto": "Identidad de Steven",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_13",
+    "concepto": "Suma y Diferencia de Cubos",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_14",
+    "concepto": "División Algebraica",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_15",
+    "concepto": "Método de Horner",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_16",
+    "concepto": "Método de Ruffini",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_17",
+    "concepto": "Teorema del Resto",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_18",
+    "concepto": "Factorización por Factor Común",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_19",
+    "concepto": "Factorización por Agrupación de Términos",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_20",
+    "concepto": "Método de las Identidades",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_21",
+    "concepto": "Factorización por Aspa Simple",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_22",
+    "concepto": "Factorización por Combinación de Métodos",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_23",
+    "concepto": "MCD y MCM de Polinomios",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_24",
+    "concepto": "Fracciones Algebraicas",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_25",
+    "concepto": "Introducción a las Ecuaciones",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_26",
+    "concepto": "Ecuaciones con Una Incógnita",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_ALG_27",
+    "concepto": "Ecuaciones con Productos Notables",
+    "materia": "Algebra",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_01",
+    "concepto": "Introducción a la Geometría",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_02",
+    "concepto": "Conceptos Básicos Geométricos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_03",
+    "concepto": "Las Líneas",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_04",
+    "concepto": "Posiciones Relativas de Dos Rectas",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_05",
+    "concepto": "Punto de Corte entre Rectas",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_06",
+    "concepto": "Los Segmentos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_07",
+    "concepto": "Adición y Sustracción de Segmentos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_08",
+    "concepto": "Producto de un Número por un Segmento",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_09",
+    "concepto": "Que son los Ángulos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_10",
+    "concepto": "Sistema Sexagesimal Angular",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_11",
+    "concepto": "Los Ángulos Según su Medida",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_12",
+    "concepto": "Bisectriz de un Ángulo",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_13",
+    "concepto": "Los Ángulos Según su Posición",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_14",
+    "concepto": "Adición y Sustracción de Ángulos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_15",
+    "concepto": "Operaciones de Ángulos Paralelos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_16",
+    "concepto": "Congruencia de Triángulos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_17",
+    "concepto": "Repaso de Ángulos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_18",
+    "concepto": "Propiedad de la Bisectriz",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_19",
+    "concepto": "Propiedades de la Mediatriz",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_20",
+    "concepto": "Ejercicios de Triángulos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_21",
+    "concepto": "Clasificación de Triángulos",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_22",
+    "concepto": "Líneas Notables en el Triángulo",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_GEO_23",
+    "concepto": "Triángulos Notables",
+    "materia": "Geometría",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_01",
+    "concepto": "Juegos de Ingenio",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_02",
+    "concepto": "Habilidad Visual",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_03",
+    "concepto": "Orden de Información",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_04",
+    "concepto": "Cuadro de Decisiones",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_05",
+    "concepto": "Operadores Matemáticos",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_06",
+    "concepto": "Ejercicios de Sucesiones",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_07",
+    "concepto": "Analogías Numéricas",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_08",
+    "concepto": "Distribuciones Numéricas",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_09",
+    "concepto": "Conteo de Figuras 1",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_10",
+    "concepto": "Conteo de Figuras 2",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_11",
+    "concepto": "Trazado de Figuras",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_12",
+    "concepto": "Regla de Tres Simple",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_13",
+    "concepto": "Regla de Tres Compuesta",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_14",
+    "concepto": "Intervalos de Longitud",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_15",
+    "concepto": "Intervalos de Tiempo",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_16",
+    "concepto": "Operaciones Sucesivas",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_17",
+    "concepto": "Diferencias y Equivalencias",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_18",
+    "concepto": "Atrasos y Adelantos en Relojes",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_19",
+    "concepto": "Ejercicios de Edades",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_20",
+    "concepto": "Ejercicios de Móviles",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_21",
+    "concepto": "Criptoaritmética",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_22",
+    "concepto": "Conjuntos",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_23",
+    "concepto": "El Tanto por Ciento",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_24",
+    "concepto": "Tablas y Cuadros Estadísticos",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "1_RM_25",
+    "concepto": "Medidas de Tendencia",
+    "materia": "Razonamiento Matemático",
+    "año": "1ro de secundaria"
+  },
+  {
+    "id": "2_ARIT_01",
+    "concepto": "Conjunto de los Números Racionales",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_02",
+    "concepto": "Adición de Fracciones",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_03",
+    "concepto": "Sustracción de Fracciones",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_04",
+    "concepto": "Multiplicación de Fracciones",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_05",
+    "concepto": "División de Fracciones",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_06",
+    "concepto": "Operaciones Combinadas con Fracciones",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_07",
+    "concepto": "Ejercicios de Potenciación",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_08",
+    "concepto": "Ejercicios de Radicación",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_09",
+    "concepto": "Número Decimal",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_10",
+    "concepto": "Fracción Generatriz",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_11",
+    "concepto": "Adición y Sustracción de Decimales",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_12",
+    "concepto": "Multiplicación y División de Decimales",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_13",
+    "concepto": "Potenciación de Decimales",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_14",
+    "concepto": "Radicación de Decimales",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_15",
+    "concepto": "Conjunto de los Números Irracionales",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_16",
+    "concepto": "Características de los Números Reales",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_17",
+    "concepto": "Valor Absoluto de un Número",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_18",
+    "concepto": "Intervalos Limitados",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_19",
+    "concepto": "Intervalos ilimitados",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_20",
+    "concepto": "Ejercicios de Razones",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_21",
+    "concepto": "Ejercicios de Proporciones",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_22",
+    "concepto": "Magnitudes Proporcionales",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_23",
+    "concepto": "Reparto Proporcional Simple y Compuesto",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_24",
+    "concepto": "Regla del Tanto por Ciento",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_25",
+    "concepto": "Aplicaciones Comerciales",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ARIT_26",
+    "concepto": "Ejercicios de Interés",
+    "materia": "Aritmética",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_01",
+    "concepto": "Expresiones Algebraicas",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_02",
+    "concepto": "Ejercicios con Expresiones Algebraicas",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_03",
+    "concepto": "Que son los Monomios y Polinomios",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_04",
+    "concepto": "Polinomio Completo y Ordenado",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_05",
+    "concepto": "Polinomio Homogéneo e Idéntico",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_06",
+    "concepto": "Valor Numérico",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_07",
+    "concepto": "Multiplicación de Monomios y Polinomios",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_08",
+    "concepto": "Productos Notables",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_09",
+    "concepto": "Productos Notables 2",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_10",
+    "concepto": "Ejercicios de División Algebraica",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_11",
+    "concepto": "Ejercicios del Método de Horner",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_12",
+    "concepto": "Ejercicios del Método de Ruffini",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_13",
+    "concepto": "Ejercicios de Teorema del Resto",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_14",
+    "concepto": "Método de Factor Común",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_15",
+    "concepto": "Método de Agrupación de Términos",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_16",
+    "concepto": "Método de Identidades",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_17",
+    "concepto": "Método de Aspa Simple",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_18",
+    "concepto": "Combinación de Métodos",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_19",
+    "concepto": "MCM y MCD de Polinomios",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_20",
+    "concepto": "Fracción Algebraica",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_21",
+    "concepto": "Ecuaciones Algebraicas",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_22",
+    "concepto": "Ecuaciones de 1er Grado con Una Incógnita",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_23",
+    "concepto": "Ecuaciones de 1er Grado con Productos Notables",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_24",
+    "concepto": "Ecuaciones de 2do Grado",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_25",
+    "concepto": "Ejercicios con la Formula de Baskara",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_26",
+    "concepto": "Propiedades con la Raíces",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_ALG_27",
+    "concepto": "Ecuaciones Fraccionarias",
+    "materia": "Algebra",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_01",
+    "concepto": "Los Ángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_02",
+    "concepto": "Clasificación de los Ángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_03",
+    "concepto": "Ángulos entre Rectas Paralelas",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_04",
+    "concepto": "Propiedades Básicas de los Triángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_05",
+    "concepto": "Propiedades Adicionales de los Triángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_06",
+    "concepto": "Ejercicios de Triángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_07",
+    "concepto": "Propiedad de la Existencia Triangular",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_08",
+    "concepto": "Los Triángulos Según sus Ángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_09",
+    "concepto": "Los Triángulos Según sus Lados",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_10",
+    "concepto": "Líneas Notables de los Triángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_11",
+    "concepto": "Líneas Notables 2 de los Triángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_12",
+    "concepto": "Ejercicios de Triángulos Notables",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_13",
+    "concepto": "Problemas de Triángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_14",
+    "concepto": "Congruencia de Triángulos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_15",
+    "concepto": "Ejercicios de Propiedad de la Bisectriz",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_16",
+    "concepto": "Ejercicios de las Propiedades de la Mediatriz",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_17",
+    "concepto": "Propiedades de la Base Media",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_18",
+    "concepto": "Propiedades de la Mediana",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_19",
+    "concepto": "Construcciones Geométricas",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_20",
+    "concepto": "Construcción de Triángulos y Polígonos Regulares",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_21",
+    "concepto": "Triángulos Ejercicios",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_22",
+    "concepto": "Los Cuadriláteros",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_23",
+    "concepto": "Clasificación de Cuadriláteros",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_24",
+    "concepto": "Propiedades del Trapecio",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_25",
+    "concepto": "Los Paralelogramos",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_26",
+    "concepto": "Que es un Polígono",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_GEO_27",
+    "concepto": "Los Polígonos y sus Diagonales",
+    "materia": "Geometría",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_01",
+    "concepto": "Razonamiento Lógico",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_02",
+    "concepto": "Curiosidades Numéricas",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_03",
+    "concepto": "Operaciones Rápidas",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_04",
+    "concepto": "Capacidad de Observación",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_05",
+    "concepto": "Problemas de Sucesiones",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_06",
+    "concepto": "Conteo de Figuras",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_07",
+    "concepto": "Trazado de Figuras",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_08",
+    "concepto": "Inducción",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_09",
+    "concepto": "Certezas",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_10",
+    "concepto": "Regla de Tres Simple",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_11",
+    "concepto": "Regla de Tres Compuesta",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_12",
+    "concepto": "Intervalo de Longitud",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_13",
+    "concepto": "Intervalos de Tiempo",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_14",
+    "concepto": "Método de Falsa Suposición",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_15",
+    "concepto": "Operaciones Sucesivas",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_16",
+    "concepto": "Métodos Operativos",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_17",
+    "concepto": "Ejercicios con Relojes",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_18",
+    "concepto": "Problemas con Móviles",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_19",
+    "concepto": "Reducción a la Unidad",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_20",
+    "concepto": "Operadores Matemáticos",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_21",
+    "concepto": "Cuadros de Doble Entrada",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_22",
+    "concepto": "Criptoaritmética",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_23",
+    "concepto": "Razonamiento Geométrico",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "2_RM_24",
+    "concepto": "Razonamiento Abstracto",
+    "materia": "Razonamiento Matemático",
+    "año": "2do de secundaria"
+  },
+  {
+    "id": "3_ARIT_01",
+    "concepto": "Teoría de Conjuntos",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_02",
+    "concepto": "Operaciones Entre Conjuntos",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_03",
+    "concepto": "Aplicaciones de la Teoría de Conjuntos",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_04",
+    "concepto": "Ejercicios de Numeración",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_05",
+    "concepto": "Transformación de Sistemas de Numeración",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_06",
+    "concepto": "Los Números Irracionales",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_07",
+    "concepto": "Los Números Reales",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_08",
+    "concepto": "Adición y Sustracción de Números Reales",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_09",
+    "concepto": "Multiplicación y División de Números Reales",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_10",
+    "concepto": "Potenciación y Radicación de Números Reales",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_11",
+    "concepto": "Radicales Homogéneos y Semejantes",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_12",
+    "concepto": "Extracción e Introducción en un Radical",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_13",
+    "concepto": "Problemas de Razones",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_14",
+    "concepto": "Problemas de Proporciones",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_15",
+    "concepto": "Ejercicios de Promedios",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_16",
+    "concepto": "Problemas de Magnitudes Proporcionales",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_17",
+    "concepto": "Ejercicios de Reparto Proporcional",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_18",
+    "concepto": "Problemas de Regla de Tres Simple",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_19",
+    "concepto": "Problemas de Regla de Tres Compuesta",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_20",
+    "concepto": "Divisibilidad",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_21",
+    "concepto": "Criterios de Divisibilidad",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_22",
+    "concepto": "Ejercicios de Números Primos",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_23",
+    "concepto": "MCM y MCD",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_24",
+    "concepto": "Propiedades del MCM y MCD",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_25",
+    "concepto": "Estadística 1",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ARIT_26",
+    "concepto": "Estadística 2",
+    "materia": "Aritmética",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_01",
+    "concepto": "Clasificación de las Expresiones Algebraicas",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_02",
+    "concepto": "Grado Absoluto y Relativo de un Monomio",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_03",
+    "concepto": "Grado Absoluto y Relativo de un Polinomio",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_04",
+    "concepto": "Suma y Resta de Polinomios",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_05",
+    "concepto": "Polinomios Especiales",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_06",
+    "concepto": "Valor Numérico de un Polinomio",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_07",
+    "concepto": "Multiplicación de Expresiones Algebraicas",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_08",
+    "concepto": "Práctica de Productos Notables",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_09",
+    "concepto": "Práctica de Productos Notables 2",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_10",
+    "concepto": "División de Polinomios",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_11",
+    "concepto": "División Euclidiana",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_12",
+    "concepto": "Métodos de Factorización 1",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_13",
+    "concepto": "Métodos de Factorización 2",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_14",
+    "concepto": "Máximo Común Divisor y Mínimo Común Múltiplo",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_15",
+    "concepto": "Operaciones con Fracciones Algebraicas",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_16",
+    "concepto": "Radicación",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_17",
+    "concepto": "Racionalización",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_18",
+    "concepto": "Ecuaciones de Primer Grado",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_19",
+    "concepto": "Ecuaciones de Segundo Grado",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_20",
+    "concepto": "Naturaleza de las Raíces",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_21",
+    "concepto": "Inecuaciones de Primer Grado",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_22",
+    "concepto": "Inecuaciones de Segundo Grado",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_23",
+    "concepto": "Matrices y Determinantes",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_24",
+    "concepto": "Propiedades de las Determinantes",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_25",
+    "concepto": "Progresión Geométrica",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_26",
+    "concepto": "Introducción a los Logaritmos",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_27",
+    "concepto": "Ecuaciones Logarítmica y Exponencial",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_ALG_28",
+    "concepto": "Cologaritmo y Antilogaritmo",
+    "materia": "Algebra",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_01",
+    "concepto": "Los Ángulos Ejercicios",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_02",
+    "concepto": "Ejercicios de Ángulos",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_03",
+    "concepto": "Problemas de los Triángulos",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_04",
+    "concepto": "Los Triángulos y su Clasificación",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_05",
+    "concepto": "Problemas de Triángulos Notables",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_06",
+    "concepto": "Triángulos Problemas",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_07",
+    "concepto": "Líneas Notables Primera Parte",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_08",
+    "concepto": "Líneas Notables Segunda Parte",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_09",
+    "concepto": "Primer Caso de Congruencia de Triángulos",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_10",
+    "concepto": "Segundo Caso de Congruencia de Triángulos",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_11",
+    "concepto": "Tercer Caso de Congruencia de Triángulos",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_12",
+    "concepto": "Propiedades de la Bisectriz y Mediatriz",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_13",
+    "concepto": "Propiedad de la Base Media",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_14",
+    "concepto": "Repaso de Triángulos",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_15",
+    "concepto": "Los Cuadriláteros Ejercicios",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_16",
+    "concepto": "Clases de Cuadriláteros",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_17",
+    "concepto": "El Trapecio y sus Propiedades",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_18",
+    "concepto": "Los Paralelogramos y su Clasificación",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_19",
+    "concepto": "Clasificación de los Polígonos",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_20",
+    "concepto": "Las Diagonales de los Polígonos",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_21",
+    "concepto": "Ejercicios de Cuadriláteros",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_22",
+    "concepto": "La Circunferencia",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_23",
+    "concepto": "Figuras Inscritas y Circunscritas en la Circunferencia",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_24",
+    "concepto": "Ángulos en la Circunferencia",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_25",
+    "concepto": "Ejercicios de Circunferencia",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_26",
+    "concepto": "Ejercicios de Relaciones Métricas",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_27",
+    "concepto": "Teoremas de las Relaciones Métricas",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_GEO_28",
+    "concepto": "Áreas de las Regiones Poligonales",
+    "materia": "Geometría",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_01",
+    "concepto": "Matemática Recreativa",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_02",
+    "concepto": "Razonamiento Abstracto",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_03",
+    "concepto": "Problemas de Inducción",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_04",
+    "concepto": "Cuatro Operaciones",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_05",
+    "concepto": "Problemas de Criptoaritmética",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_06",
+    "concepto": "Sucesiones",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_07",
+    "concepto": "Sucesiones Ejercicios",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_08",
+    "concepto": "Analogías y Distribuciones",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_09",
+    "concepto": "Conteo de Figuras Ejercicios",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_10",
+    "concepto": "Problemas sobre Cortes y Estacas",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_11",
+    "concepto": "Operadores Matemáticos Ejercicios",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_12",
+    "concepto": "Operadores Matemáticos con Tablas",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_13",
+    "concepto": "Certezas Ejercicios",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_14",
+    "concepto": "Habilidad Operativa",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_15",
+    "concepto": "Planteo de Ecuaciones 1",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_16",
+    "concepto": "Planteo de Ecuaciones 2",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_17",
+    "concepto": "Edades Ejercicios",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_18",
+    "concepto": "Móviles Ejercicios",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_19",
+    "concepto": "Relojes Ejercicios",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_20",
+    "concepto": "Factorial de un Número",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_21",
+    "concepto": "Máximos y Mínimos",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_22",
+    "concepto": "Análisis Combinatorio 1",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_23",
+    "concepto": "Análisis Combinatorio 2",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_24",
+    "concepto": "Situaciones Geométricas",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_25",
+    "concepto": "Área de Regiones Sombreadas",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "3_RM_26",
+    "concepto": "Suma y Resta de Áreas",
+    "materia": "Razonamiento Matemático",
+    "año": "3ro de secundaria"
+  },
+  {
+    "id": "4_ARIT_01",
+    "concepto": "Razones y Proporciones",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_02",
+    "concepto": "Serie de Razones Equivalentes",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_03",
+    "concepto": "Problemas de Promedios",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_04",
+    "concepto": "Magnitudes Proporcionales Ejercicios",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_05",
+    "concepto": "Problemas de Reparto Proporcional",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_06",
+    "concepto": "Regla de Tres Simple",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_07",
+    "concepto": "Regla de Tres Compuesta",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_08",
+    "concepto": "Los Números Racionales 1",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_09",
+    "concepto": "Los Números Racionales 2",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_10",
+    "concepto": "Ejercicios del Tanto por Ciento",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_11",
+    "concepto": "Ejercicios de Aplicaciones Comerciales",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_12",
+    "concepto": "Problemas de Interés Simple",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_13",
+    "concepto": "Ejercicios de Sistemas de Numeración",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_14",
+    "concepto": "Cambio de Sistemas de Numeración",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_15",
+    "concepto": "Adición y Sustracción",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_16",
+    "concepto": "Multiplicación y División",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_17",
+    "concepto": "Introducción a los Conjuntos",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_18",
+    "concepto": "Operaciones de Conjuntos",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_19",
+    "concepto": "Problemas de conjuntos",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_20",
+    "concepto": "Divisibilidad ejercicios",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_21",
+    "concepto": "Ejercicios de Criterios de Divisibilidad",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_22",
+    "concepto": "Problemas con Números Primos",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_23",
+    "concepto": "MCD y MCM",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_24",
+    "concepto": "Propiedades del MCD y MCM",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_25",
+    "concepto": "Medidas de Tendencia Central",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ARIT_26",
+    "concepto": "Interpretación de Cuadros Estadísticos",
+    "materia": "Aritmética",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_01",
+    "concepto": "Leyes de Exponentes Potenciación",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_02",
+    "concepto": "Leyes de Exponentes Radicación",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_03",
+    "concepto": "Ecuaciones Exponenciales",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_04",
+    "concepto": "Polinomios",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_05",
+    "concepto": "Ejercicios de Productos Notables",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_06",
+    "concepto": "Ejercicios de Productos Notables 2",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_07",
+    "concepto": "Problemas de División Algebraica",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_08",
+    "concepto": "Actividades de División Algebraica",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_09",
+    "concepto": "Ejercicios de Factorización",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_10",
+    "concepto": "Ejercicios de Factorización 2",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_11",
+    "concepto": "MCD y MCM de Polinomios",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_12",
+    "concepto": "Ejercicios de Radicación",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_13",
+    "concepto": "Ejercicios de Racionalización",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_14",
+    "concepto": "Fracciones Algebraicas",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_15",
+    "concepto": "Ecuaciones de 1° Grado",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_16",
+    "concepto": "Ecuaciones de 2° Grado",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_17",
+    "concepto": "Sistemas de Ecuaciones",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_18",
+    "concepto": "Introducción a las Funciones",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_19",
+    "concepto": "Dominio y Rango de la Función",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_20",
+    "concepto": "Función Cuadrática",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_21",
+    "concepto": "Inecuaciones de 1° Grado",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_22",
+    "concepto": "Inecuaciones de 2° Grado",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_23",
+    "concepto": "Ejercicios de Matrices y Determinantes",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_24",
+    "concepto": "Las Determinantes y sus Propiedades",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_25",
+    "concepto": "Ejercicios de Progresión Geométrica",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_26",
+    "concepto": "Teoremas de los Logaritmos",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_27",
+    "concepto": "Ecuación Exponencial y Logarítmica",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_ALG_28",
+    "concepto": "Antilogaritmo y Cologaritmo",
+    "materia": "Algebra",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_01",
+    "concepto": "Problemas de Ángulos",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_02",
+    "concepto": "Ejercicios de Ángulos entre Rectas Paralelas",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_03",
+    "concepto": "Propiedades de los Triángulos",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_04",
+    "concepto": "Ejercicios de Líneas Notables",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_05",
+    "concepto": "Problemas de Congruencia de Triángulos",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_06",
+    "concepto": "Práctica de Triángulos",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_07",
+    "concepto": "Ejercicios de Polígonos",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_08",
+    "concepto": "Problemas de Cuadriláteros",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_09",
+    "concepto": "Problemas de Circunferencia",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_10",
+    "concepto": "Ejercicios de Ángulos en la Circunferencia",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_11",
+    "concepto": "Relaciones Métricas en Triángulos Rectángulos",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_12",
+    "concepto": "Relaciones Métricas en Triángulos Oblicuángulos",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_13",
+    "concepto": "Relaciones Métricas en la Circunferencia",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_14",
+    "concepto": "Problemas de Relaciones Métricas",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_15",
+    "concepto": "La Proporcionalidad",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_16",
+    "concepto": "Semejanza de Triángulos",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_17",
+    "concepto": "Áreas Triangulares",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_18",
+    "concepto": "Relaciones de Áreas Triangulares",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_19",
+    "concepto": "Áreas Cuadrangulares",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_20",
+    "concepto": "Áreas de Regiones Circulares",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_21",
+    "concepto": "Introducción a la Geometría del Espacio",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_22",
+    "concepto": "Ángulos Diedros y Triedros",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_23",
+    "concepto": "Poliedros Regulares",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_24",
+    "concepto": "Sólidos Geométricos",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_25",
+    "concepto": "Pirámide Regular",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_26",
+    "concepto": "Cilindro Circular Recto",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_GEO_27",
+    "concepto": "Cono Circular Recto",
+    "materia": "Geometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_01",
+    "concepto": "Ángulo Trigonométrico",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_02",
+    "concepto": "Sistemas de Medición Angular",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_03",
+    "concepto": "Conversión de Sistemas Trigonométricos",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_04",
+    "concepto": "Longitud de Arco",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_05",
+    "concepto": "Área de un Sector Circular",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_06",
+    "concepto": "Razones Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_07",
+    "concepto": "Razones Trigonométricas de Triángulos Notables",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_08",
+    "concepto": "Propiedades de las Razones Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_09",
+    "concepto": "Ejercicios de Razones Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_10",
+    "concepto": "Resolución de Triángulos Rectángulos",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "1_TRIG_11",
+    "concepto": "Ángulos Verticales",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_12",
+    "concepto": "Sistema Cartesiano",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_13",
+    "concepto": "Ángulos en Posición Normal",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_14",
+    "concepto": "Ángulos Cuadrantales",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_15",
+    "concepto": "Reducción al Primer Cuadrante 1",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_16",
+    "concepto": "Reducción al Primer Cuadrante 2",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_17",
+    "concepto": "Circunferencia Trigonométrica",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_18",
+    "concepto": "Variación del Seno y Coseno",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_19",
+    "concepto": "Transformaciones Trigonométricas 1",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_20",
+    "concepto": "Transformaciones Trigonométricas 2",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_21",
+    "concepto": "Ejercicios de Transformaciones Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_22",
+    "concepto": "Sumatorias de Senos y Cosenos",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_23",
+    "concepto": "Ecuaciones Trigonométricas 1",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_24",
+    "concepto": "Ecuaciones Trigonométricas 2",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_TRIG_25",
+    "concepto": "Resolución de Triángulos Oblicuángulos",
+    "materia": "Trigonometría",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_01",
+    "concepto": "Método del Cangrejo",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_02",
+    "concepto": "Método del Rombo",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_03",
+    "concepto": "Método de las Diferencias",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_04",
+    "concepto": "Método de la Regla Conjunta",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_05",
+    "concepto": "Cuatro Operaciones",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_06",
+    "concepto": "Operaciones Matemáticas",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_07",
+    "concepto": "Que es plantear una Ecuación",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_08",
+    "concepto": "Planteo de Ecuaciones",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_09",
+    "concepto": "Problemas sobre Edades",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_10",
+    "concepto": "Introducción a las Fracciones",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_11",
+    "concepto": "Problemas con Fracciones",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_12",
+    "concepto": "Problemas sobre Mezclas",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_13",
+    "concepto": "Comparación Cuantitativa",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_14",
+    "concepto": "Razonamiento Inductivo y Deductivo",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_15",
+    "concepto": "Sucesiones Numéricas y Alfabéticas",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_16",
+    "concepto": "Series Numéricas",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_17",
+    "concepto": "Uso del Sigma",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_18",
+    "concepto": "Sumas Especiales",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_19",
+    "concepto": "Métodos de Conteo de Figuras",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_20",
+    "concepto": "Criptoaritmética Ejercicios",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_21",
+    "concepto": "Factorial de un Número",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_22",
+    "concepto": "Máximos y Mínimos",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_23",
+    "concepto": "Análisis Combinatorio",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_24",
+    "concepto": "Variaciones y Combinaciones",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_25",
+    "concepto": "Situaciones Geométricas",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_26",
+    "concepto": "Áreas Sombreadas",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "4_RM_27",
+    "concepto": "Suma y Resta de Áreas Sombreadas",
+    "materia": "Razonamiento Matemático",
+    "año": "4to de secundaria"
+  },
+  {
+    "id": "5_ARIT_01",
+    "concepto": "Ejercicios de Razones y Proporciones",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_02",
+    "concepto": "Magnitudes y Reparto Proporcional",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_03",
+    "concepto": "Promedios ejercicios",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_04",
+    "concepto": "Regla de Tres Simple y Compuesta",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_05",
+    "concepto": "Ejercicios de Números Racionales",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_06",
+    "concepto": "Números Decimales",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_07",
+    "concepto": "Ejercicios de Porcentajes",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_08",
+    "concepto": "Problemas de Aplicaciones Comerciales",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_09",
+    "concepto": "Regla de Interés",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_10",
+    "concepto": "Regla de Mezcla",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_11",
+    "concepto": "Mezclas Alcohólicas",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_12",
+    "concepto": "Problemas de Sistemas Numeración",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_13",
+    "concepto": "Ejercicios de Cambios de Base",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_14",
+    "concepto": "Progresión Aritmética",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_15",
+    "concepto": "Ejercicios de Conteo",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_16",
+    "concepto": "Adición",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_17",
+    "concepto": "Sustracción",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_18",
+    "concepto": "La Multiplicación",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_19",
+    "concepto": "La División",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_20",
+    "concepto": "Inecuaciones",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_21",
+    "concepto": "Divisibilidad",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_22",
+    "concepto": "Problemas de Criterios de Divisibilidad",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_23",
+    "concepto": "Números Primos ejercicios",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_24",
+    "concepto": "Ejercicios de MCM y MCD",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_25",
+    "concepto": "Problemas de MCM y MCD",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ARIT_26",
+    "concepto": "Gráficos en la Estadística",
+    "materia": "Aritmética",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_01",
+    "concepto": "Monomios y Polinomios",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_02",
+    "concepto": "Ejercicios de Polinomios Especiales",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_03",
+    "concepto": "Problemas de Productos Notables",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_04",
+    "concepto": "Problemas de Productos Notables 2",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_05",
+    "concepto": "División Algebraica",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_06",
+    "concepto": "Cocientes Notables",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_07",
+    "concepto": "Problemas de Factorización",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_08",
+    "concepto": "Problemas de Factorización 2",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_09",
+    "concepto": "Binomio de Newton con Exponente Natural",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_10",
+    "concepto": "Problemas de Radicación",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_11",
+    "concepto": "Problemas de Racionalización",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_12",
+    "concepto": "MCD y MCM de Polinomios",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_13",
+    "concepto": "Problemas de Fracciones Algebraicas",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_14",
+    "concepto": "Ejercicios de Ecuaciones de Primer Grado",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_15",
+    "concepto": "Ejercicios de Ecuaciones de Segundo Grado",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_16",
+    "concepto": "Propiedad de las Raíces",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_17",
+    "concepto": "Sistemas de Ecuaciones",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_18",
+    "concepto": "Matrices y Determinantes",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_19",
+    "concepto": "Ejercicios de Logaritmos",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_20",
+    "concepto": "Propiedades de Logaritmos",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_21",
+    "concepto": "Inecuaciones de Primer Grado",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_22",
+    "concepto": "Inecuaciones de Segundo Grado",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_23",
+    "concepto": "Ejercicios de Funciones",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_24",
+    "concepto": "Funciones Especiales",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_ALG_25",
+    "concepto": "Funciones Cuadráticas",
+    "materia": "Algebra",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_01",
+    "concepto": "Ángulos Problemas",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_02",
+    "concepto": "Propiedades del Triangulo",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_03",
+    "concepto": "Problemas de Lineas Notables",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_04",
+    "concepto": "Congruencia de Triángulos Ejercicios",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_05",
+    "concepto": "Problemas de Polígonos",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_06",
+    "concepto": "Ejercicios para Resolver de Cuadriláteros",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_07",
+    "concepto": "Circunferencia Ejercicios",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_08",
+    "concepto": "Propiedades de la Circunferencia",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_09",
+    "concepto": "Proporcionalidad de Segmentos",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_10",
+    "concepto": "Ejercicios de Relaciones Métricas en Triángulos Rectángulos",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_11",
+    "concepto": "Ejercicios de Relaciones Métricas de las Circunferencias",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_12",
+    "concepto": "Ejercicios de Relaciones Métricas en Triángulos Oblicuángulos",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_13",
+    "concepto": "Áreas de Regiones Triangulares",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_14",
+    "concepto": "Relaciones de Áreas de Regiones Triangulares",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_15",
+    "concepto": "Áreas de Regiones Paralelográmicas",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_16",
+    "concepto": "Ejercicios de Cilindros",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_17",
+    "concepto": "Ejercicios de Conos",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_18",
+    "concepto": "Ejercicios de Esferas",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_19",
+    "concepto": "Ejercicios de Cuerpos Geométricos",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_20",
+    "concepto": "Introducción a la Geometría Analítica",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_21",
+    "concepto": "La Recta – Geometría Analítica",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_22",
+    "concepto": "La Circunferencia – Geometría Analítica",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_GEO_23",
+    "concepto": "La Parábola – Geometría Analítica",
+    "materia": "Geometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_01",
+    "concepto": "Conversión de Sistemas Trigonométricos",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_02",
+    "concepto": "Razones Trigonométricas de Ángulos Agudos",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_03",
+    "concepto": "Razones Trigonométricas de Ángulos Notables",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_04",
+    "concepto": "Propiedades de las Razones Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_05",
+    "concepto": "Resolución de Triángulos Rectángulos",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_06",
+    "concepto": "Razones Trigonométricas de Ángulos en Posición Normal",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_07",
+    "concepto": "Razones Trigonométricas de Ángulos Cuadrantales",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_08",
+    "concepto": "Ejercicios de Reducción al Primer Cuadrante",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_09",
+    "concepto": "Problemas de Reducción al Primer Cuadrante",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_10",
+    "concepto": "Ejercicios de Circunferencia Trigonométrica",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_11",
+    "concepto": "Problemas de Circunferencia Trigonométrica",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_12",
+    "concepto": "Identidades Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_13",
+    "concepto": "Suma y Diferencia de Ángulos",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_14",
+    "concepto": "Función Trigonométrica de Ángulo Doble",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_15",
+    "concepto": "Razones Trigonométricas del Ángulo Triple",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_16",
+    "concepto": "Ejercicios de Transformaciones Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_17",
+    "concepto": "Problemas de Transformaciones Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_18",
+    "concepto": "Ejercicios de Sumatorias de Senos y Cosenos",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_19",
+    "concepto": "Ejercicios de Ecuaciones Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_20",
+    "concepto": "Problemas de Ecuaciones Trigonométricas",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_21",
+    "concepto": "Ejercicios de Resolución de Triángulos Oblicuángulos",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_TRIG_22",
+    "concepto": "Examen de Trigonometría",
+    "materia": "Trigonometría",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_01",
+    "concepto": "Lógica Recreativa",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_02",
+    "concepto": "Inducción y Deducción",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_03",
+    "concepto": "Criptoaritmética",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_04",
+    "concepto": "Métodos Operativos 1",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_05",
+    "concepto": "Métodos Operativos 2",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_06",
+    "concepto": "Problemas de Planteo de Ecuaciones 1",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_07",
+    "concepto": "Problemas de Planteo de Ecuaciones 2",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_08",
+    "concepto": "Actividades con Edades",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_09",
+    "concepto": "Actividades con Móviles",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_10",
+    "concepto": "Problemas con Relojes",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_11",
+    "concepto": "Comparaciones Cuantitativas",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_12",
+    "concepto": "Suficiencia de Datos",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_13",
+    "concepto": "Sucesiones y Analogías",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_14",
+    "concepto": "Series",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_15",
+    "concepto": "Uso del Sigma",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_16",
+    "concepto": "Sumas Especiales",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_17",
+    "concepto": "Orden de Información",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_18",
+    "concepto": "Juegos Lógicos",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_19",
+    "concepto": "Problemas con Operadores Matemáticos",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_20",
+    "concepto": "Comparación Cuantitativa",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_21",
+    "concepto": "Problemas con Máximos y Mínimos",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_22",
+    "concepto": "Problemas de Análisis Combinatorio",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_23",
+    "concepto": "Combinaciones",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_24",
+    "concepto": "Probabilidades",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_25",
+    "concepto": "Razonamiento Geométrico",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_26",
+    "concepto": "Áreas Sombreadas 1",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  },
+  {
+    "id": "5_RM_27",
+    "concepto": "Áreas Sombreadas 2",
+    "materia": "Razonamiento Matemático",
+    "año": "5to de secundaria"
+  }
+]

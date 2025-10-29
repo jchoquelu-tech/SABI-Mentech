@@ -1,0 +1,1896 @@
+[
+  {
+    "item_id": "bee4bd2f-0017-4509-b8d8-2f6c6a82e5b3",
+    "concepto_id": "1_ALG_01",
+    "pregunta": "En el término algebraico -9x²y³, ¿cuál es la parte literal?",
+    "opciones": [
+      "-9",
+      "x²y³",
+      "2 y 3",
+      "9"
+    ],
+    "respuesta_correcta": "x²y³"
+  },
+  {
+    "item_id": "2ae8e19c-bcbc-448f-a173-67e1369e33cf",
+    "concepto_id": "1_ALG_02",
+    "pregunta": "¿Cuál es el resultado correcto al simplificar la siguiente expresión algebraica: 8a - (3a - 4)?",
+    "opciones": [
+      "5a - 4",
+      "11a + 4",
+      "11a - 4",
+      "5a + 4"
+    ],
+    "respuesta_correcta": "5a + 4"
+  },
+  {
+    "item_id": "fb928629-ae82-45a6-a8d2-3d6c4f5cd5fc",
+    "concepto_id": "1_ALG_03",
+    "pregunta": "¿Cuál es el valor de 'x' que resuelve la siguiente ecuación: 2x + 5 = 15?",
+    "opciones": [
+      "10",
+      "8",
+      "5",
+      "20"
+    ],
+    "respuesta_correcta": "5"
+  },
+  {
+    "item_id": "5dec7bf2-f78a-42dd-8824-3893afb2b7ef",
+    "concepto_id": "1_ARIT_04",
+    "pregunta": "¿Cuál es el Máximo Común Divisor (MCD) de 12 y 18?",
+    "opciones": [
+      "3",
+      "6",
+      "12",
+      "36"
+    ],
+    "respuesta_correcta": "6"
+  },
+  {
+    "item_id": "3c9dd341-d2e6-4363-99f2-e663ea7fd4fa",
+    "concepto_id": "1_GEO_09",
+    "pregunta": "Si un ángulo mide 90 grados, ¿cómo se clasifica?",
+    "opciones": [
+      "Agudo",
+      "Recto",
+      "Obtuso",
+      "Llano"
+    ],
+    "respuesta_correcta": "Recto"
+  },
+  {
+    "item_id": "06259280-c417-48ea-b5d2-5a90c78801f2",
+    "concepto_id": "2_ALG_24",
+    "pregunta": "¿Cuál de las siguientes es una ecuación de segundo grado?",
+    "opciones": [
+      "x + 8 = 10",
+      "x³ - 2x = 0",
+      "5x - 3y = 7",
+      "x² + 3x - 4 = 0"
+    ],
+    "respuesta_correcta": "x² + 3x - 4 = 0"
+  },
+  {
+    "item_id": "a3d1ec0e-b4d4-4118-81ab-41aec3f56543",
+    "concepto_id": "2_RM_05",
+    "pregunta": "¿Qué número continúa en la siguiente sucesión: 2, 5, 8, 11, ...?",
+    "opciones": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "respuesta_correcta": "14"
+  },
+  {
+    "item_id": "19c729a2-3ec5-460f-a81b-9c83df821acd",
+    "concepto_id": "3_ARIT_01",
+    "pregunta": "Si A = {1, 2, 3} y B = {3, 4, 5}, ¿cuál es la intersección (A ∩ B)?",
+    "opciones": [
+      "{1, 2, 3, 4, 5}",
+      "{1, 2}",
+      "{3}",
+      "{4, 5}"
+    ],
+    "respuesta_correcta": "{3}"
+  },
+  {
+    "item_id": "90de4821-bf15-44c0-9f0c-e06722772299",
+    "concepto_id": "3_GEO_22",
+    "pregunta": "¿Cómo se llama el segmento que une el centro de una circunferencia con cualquier punto de ella?",
+    "opciones": [
+      "Diámetro",
+      "Radio",
+      "Cuerda",
+      "Tangente"
+    ],
+    "respuesta_correcta": "Radio"
+  },
+  {
+    "item_id": "f21cb612-1a64-487b-b9bc-960cb21f7897",
+    "concepto_id": "4_TRIG_06",
+    "pregunta": "En un triángulo rectángulo, ¿a qué es igual el Seno de un ángulo agudo?",
+    "opciones": [
+      "Cateto Adyacente / Hipotenusa",
+      "Cateto Opuesto / Hipotenusa",
+      "Cateto Opuesto / Cateto Adyacente",
+      "Hipotenusa / Cateto Opuesto"
+    ],
+    "respuesta_correcta": "Cateto Opuesto / Hipotenusa"
+  },
+  {
+    "item_id": "560abb26-fd1c-4d75-8a19-c6b1153067e4",
+    "concepto_id": "4_ALG_26",
+    "pregunta": "¿Cuál es el valor de log₂(8)?",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "16"
+    ],
+    "respuesta_correcta": "3"
+  },
+  {
+    "item_id": "98a8241f-7217-4686-ab82-cf27261fda4b",
+    "concepto_id": "5_ARIT_24",
+    "pregunta": "Se tienen dos cuerdas, una de 60 metros y otra de 80 metros. Se quieren cortar en trozos iguales, lo más grandes posible. ¿Cuál será la longitud de cada trozo?",
+    "opciones": [
+      "10 metros",
+      "15 metros",
+      "20 metros",
+      "240 metros"
+    ],
+    "respuesta_correcta": "20 metros"
+  },
+  {
+    "item_id": "44d77b56-c551-42d1-b4a4-168deab47543",
+    "concepto_id": "5_RM_24",
+    "pregunta": "¿Cuál es la probabilidad de obtener un número par al lanzar un dado de seis caras?",
+    "opciones": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "respuesta_correcta": "1/2"
+  },
+  {
+    "item_id": "e87c5879-f67c-42cc-893b-1e867b4e6270",
+    "concepto_id": "1_ALG_14",
+    "pregunta": "Calcula el cociente de la siguiente división de monomios: (15x⁵) / (3x²)",
+    "opciones": [
+      "5x³",
+      "5x²",
+      "12x³",
+      "5x⁷"
+    ],
+    "respuesta_correcta": "5x³"
+  },
+  {
+    "item_id": "d73dd06c-61a8-4d54-bb7e-532e7a1199d4",
+    "concepto_id": "2_GEO_22",
+    "pregunta": "¿Cuánto suman los ángulos interiores de un cuadrilátero?",
+    "opciones": [
+      "180°",
+      "270°",
+      "360°",
+      "540°"
+    ],
+    "respuesta_correcta": "360°"
+  },
+  {
+    "item_id": "c0e05095-0491-4ba4-9867-0cd2e2a3ce54",
+    "concepto_id": "3_RM_15",
+    "pregunta": "La suma de tres números consecutivos es 30. ¿Cuál es el número mayor?",
+    "opciones": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "respuesta_correcta": "11"
+  },
+  {
+    "item_id": "91385ad3-530e-4a9d-8e0b-fac665a013a8",
+    "concepto_id": "4_ARIT_12",
+    "pregunta": "¿Qué interés simple produce un capital de S/ 1000 al 10% anual durante 2 años?",
+    "opciones": [
+      "S/ 100",
+      "S/ 200",
+      "S/ 1200",
+      "S/ 20"
+    ],
+    "respuesta_correcta": "S/ 200"
+  },
+  {
+    "item_id": "a321d822-411b-48f3-9182-b22bf4fdc8b0",
+    "concepto_id": "5_GEO_21",
+    "pregunta": "¿Cuál es la pendiente de la recta cuya ecuación es y = 3x + 5?",
+    "opciones": [
+      "3",
+      "5",
+      "-3",
+      "1/3"
+    ],
+    "respuesta_correcta": "3"
+  },
+  {
+    "item_id": "416c32f8-514e-445d-b919-8141576f2934",
+    "concepto_id": "1_ARIT_19",
+    "pregunta": "Si la edad de Juan es 20 años y la de María es 10 años, ¿cuál es la razón geométrica de sus edades?",
+    "opciones": [
+      "10",
+      "2",
+      "1/2",
+      "30"
+    ],
+    "respuesta_correcta": "2"
+  },
+  {
+    "item_id": "0464442c-e331-442b-a7da-01532fc17e26",
+    "concepto_id": "2_ARIT_10",
+    "pregunta": "¿Cuál es la fracción generatriz del número decimal 0.5?",
+    "opciones": [
+      "1/2",
+      "5/100",
+      "1/5",
+      "5/1"
+    ],
+    "respuesta_correcta": "1/2"
+  },
+  {
+    "item_id": "32281e2a-9835-4a58-91d2-8c22aeb00c01",
+    "concepto_id": "3_ALG_17",
+    "pregunta": "Racionaliza el denominador de la expresión: 2 / √2",
+    "opciones": [
+      "2√2",
+      "√2",
+      "1",
+      "2"
+    ],
+    "respuesta_correcta": "√2"
+  },
+  {
+    "item_id": "6c6a30f2-2879-4b6d-bec4-0eeb84ab61b5",
+    "concepto_id": "4_GEO_16",
+    "pregunta": "Dos triángulos son semejantes si tienen...",
+    "opciones": [
+      "Sus lados iguales",
+      "Sus ángulos respectivos iguales",
+      "Un lado en común",
+      "La misma área"
+    ],
+    "respuesta_correcta": "Sus ángulos respectivos iguales"
+  },
+  {
+    "item_id": "06d6c9d0-eda8-4926-bc75-bac7398857e3",
+    "concepto_id": "5_ALG_09",
+    "pregunta": "¿Cuál es el segundo término en el desarrollo de (x + y)³?",
+    "opciones": [
+      "x³",
+      "y³",
+      "3x²y",
+      "3xy²"
+    ],
+    "respuesta_correcta": "3x²y"
+  },
+  {
+    "item_id": "ad3a39cd-72db-4d1c-a25a-5f414792ad8d",
+    "concepto_id": "1_RM_05",
+    "pregunta": "Si se define el operador a # b = 2a + b, calcula el valor de 3 # 5.",
+    "opciones": [
+      "11",
+      "16",
+      "8",
+      "13"
+    ],
+    "respuesta_correcta": "11"
+  },
+  {
+    "item_id": "def40823-07cf-4bd7-b267-7906ce5df432",
+    "concepto_id": "2_RM_22",
+    "pregunta": "Si A + B = 8 y A es 3, ¿cuánto vale B en esta criptoaritmética (A y B son cifras)?",
+    "opciones": [
+      "3",
+      "8",
+      "5",
+      "11"
+    ],
+    "respuesta_correcta": "5"
+  },
+  {
+    "item_id": "fb27b333-4080-4852-a0fd-16d8fa63a325",
+    "concepto_id": "3_GEO_05",
+    "pregunta": "En un triángulo notable de 30° y 60°, si la hipotenusa mide 10, ¿cuánto mide el cateto opuesto a 30°?",
+    "opciones": [
+      "10",
+      "5",
+      "5√3",
+      "10√3"
+    ],
+    "respuesta_correcta": "5"
+  },
+  {
+    "item_id": "74d70bd5-8b6e-4dc0-bc0c-2338dfa81146",
+    "concepto_id": "4_RM_01",
+    "pregunta": "A un número lo multiplico por 2, le sumo 4, lo divido entre 2 y obtengo 5. ¿Cuál es el número?",
+    "opciones": [
+      "10",
+      "5",
+      "3",
+      "7"
+    ],
+    "respuesta_correcta": "3"
+  },
+  {
+    "item_id": "e5875f1b-ae47-4238-ae8f-beaa99ae1b7a",
+    "concepto_id": "5_TRIG_12",
+    "pregunta": "¿A qué es igual la identidad trigonométrica fundamental: sen²(x) + cos²(x)?",
+    "opciones": [
+      "0",
+      "1",
+      "2",
+      "tan(x)"
+    ],
+    "respuesta_correcta": "1"
+  },
+  {
+    "item_id": "6e35bb66-8f6b-499a-956d-ffdc4e0c327d",
+    "concepto_id": "1_ALG_04",
+    "pregunta": "Si al triple de la edad de Carlos le aumentamos 5 años, el resultado es 26 años. ¿Qué edad tiene Carlos?",
+    "opciones": [
+      "21 años",
+      "7 años",
+      "10 años",
+      "26 años"
+    ],
+    "respuesta_correcta": "7 años"
+  },
+  {
+    "item_id": "2fdfda10-3e79-4ece-b8ed-8c926a46828f",
+    "concepto_id": "1_ALG_26",
+    "pregunta": "En una balanza equilibrada, en un platillo hay 3 bolsas iguales de canicas y una pesa de 5 gramos. En el otro platillo hay una pesa de 20 gramos. Si 'x' representa el peso de una bolsa de canicas, la situación se describe con la ecuación: 3x + 5 = 20. ¿Cuántos gramos pesa cada bolsa de canicas?",
+    "opciones": [
+      "15 gramos",
+      "5 gramos",
+      "12 gramos",
+      "20 gramos"
+    ],
+    "respuesta_correcta": "5 gramos"
+  },
+  {
+    "item_id": "4466188a-d6ef-4b32-85d1-bf1ebaf92837",
+    "concepto_id": "1_ALG_25",
+    "pregunta": "Si 'el doble de un número, aumentado en 5, es igual a 15', ¿cuál de las siguientes ecuaciones representa correctamente este enunciado?",
+    "opciones": [
+      "x + 5 = 15",
+      "2x + 5 = 15",
+      "2(x + 5) = 15",
+      "2x - 5 = 15"
+    ],
+    "respuesta_correcta": "2x + 5 = 15"
+  },
+  {
+    "item_id": "e5d60d02-05ad-4569-a8a3-c9407349623e",
+    "concepto_id": "1_ALG_05",
+    "pregunta": "¿Cuál de las siguientes expresiones algebraicas es un monomio?",
+    "opciones": [
+      "7x² + y",
+      "5/a",
+      "-3xy³",
+      "√b"
+    ],
+    "respuesta_correcta": "-3xy³"
+  },
+  {
+    "item_id": "3eca0ac4-b540-4ff1-a774-f736305cb0f1",
+    "concepto_id": "1_ALG_06",
+    "pregunta": "Observa las siguientes expresiones algebraicas. ¿Cuál de ellas es un polinomio?",
+    "opciones": [
+      "5x² + 3/x - 1",
+      "2x³ + √x + 7",
+      "4x³ - 2x² + 5x - 9",
+      "x⁵ + 6x⁻² + 3"
+    ],
+    "respuesta_correcta": "4x³ - 2x² + 5x - 9"
+  },
+  {
+    "item_id": "a791e6e3-79a4-496b-8f51-7bbb4fbe5ada",
+    "concepto_id": "1_ALG_07",
+    "pregunta": "En el término algebraico -5x³y², ¿cuál es la parte literal?",
+    "opciones": [
+      "-5",
+      "3",
+      "x³y²",
+      "5"
+    ],
+    "respuesta_correcta": "x³y²"
+  },
+  {
+    "item_id": "58e9d343-1fed-4cc0-950d-dddd4ed1de6b",
+    "concepto_id": "1_ALG_08",
+    "pregunta": "¿Cuál de los siguientes polinomios es a la vez homogéneo y completo con respecto a la variable 'x'?",
+    "opciones": [
+      "P(x, y) = 8x⁴ - 3x²y²",
+      "P(x) = x³ + 4x² - x + 9",
+      "P(x, y) = 3x² + 5xy + 2y²",
+      "P(x, y) = 6x³y + 2xy - 5"
+    ],
+    "respuesta_correcta": "P(x, y) = 3x² + 5xy + 2y²"
+  },
+  {
+    "item_id": "09a3ad2a-dd65-41e8-bfdc-84c11abcdf4d",
+    "concepto_id": "1_ALG_09",
+    "pregunta": "Si se sabe que los polinomios P(x) = (a - 3)x + 8 y Q(x) = 5x + (b + 2) son idénticos, calcula el valor de 'a + b'.",
+    "opciones": [
+      "14",
+      "11",
+      "18",
+      "8"
+    ],
+    "respuesta_correcta": "14"
+  },
+  {
+    "item_id": "844fa8ec-cef7-4e70-a38f-235ded394372",
+    "concepto_id": "1_ALG_10",
+    "pregunta": "Calcula el valor numérico de la expresión P(x, y) = 2x + 5y, si se sabe que x = 3 y y = 4.",
+    "opciones": [
+      "14",
+      "26",
+      "29",
+      "33"
+    ],
+    "respuesta_correcta": "26"
+  },
+  {
+    "item_id": "5786b253-ca3f-4f36-a998-07b309ef3c66",
+    "concepto_id": "1_ALG_11",
+    "pregunta": "Al desarrollar el producto notable (x + 7)(x - 7), ¿cuál es el resultado correcto aplicando la regla de la diferencia de cuadrados?",
+    "opciones": [
+      "x² - 49",
+      "x² - 14x + 49",
+      "x² + 49",
+      "x² - 14"
+    ],
+    "respuesta_correcta": "x² - 49"
+  },
+  {
+    "pregunta": "Considera los polinomios P(x) = 5x⁴ - 3x² + 2x - 7 y Q(x) = -5x⁴ + x³ + 3x² + 1. ¿Cuál es el grado del polinomio resultante de la suma P(x) + Q(x)?",
+    "opciones": [
+      "8",
+      "4",
+      "3",
+      "1"
+    ],
+    "respuesta_correcta": "3",
+    "item_id": "4f30fef5-2f18-4d00-a33a-117f2f4bbcd8",
+    "concepto_id": "5_ALG_01"
+  },
+  {
+    "pregunta": "En un cine, el precio de la entrada de un adulto es de S/ 25 y el de un niño es de S/ 15. Si en una función se vendieron 120 entradas en total y se recaudaron S/ 2200, ¿cuántos adultos y cuántos niños asistieron a la función?",
+    "opciones": [
+      "40 adultos y 80 niños",
+      "80 adultos y 40 niños",
+      "60 adultos y 60 niños",
+      "50 adultos y 70 niños"
+    ],
+    "respuesta_correcta": "40 adultos y 80 niños",
+    "explicacion": "1. Se definen las variables: 'a' para adultos y 'n' para niños.\n2. Se plantea el sistema de ecuaciones: a + n = 120 (total de entradas) y 25a + 15n = 2200 (recaudación total).\n3. Se resuelve el sistema. Despejando 'a' de la primera ecuación (a = 120 - n) y sustituyendo en la segunda: 25(120 - n) + 15n = 2200. Se obtiene 3000 - 10n = 2200, resultando en n = 80.\n4. Se calcula 'a' usando a = 120 - 80, lo que da a = 40. La solución es 40 adultos y 80 niños.",
+    "dificultad": "media",
+    "item_id": "221561a9-a7e9-48f3-88d3-1787dbe02a55",
+    "concepto_id": "5_ALG_17"
+  },
+  {
+    "pregunta": "Si el número 253 en base 7 se convierte a base 9, ¿cuál es el número resultante?",
+    "opciones": [
+      "151 (base 9)",
+      "161 (base 9)",
+      "210 (base 9)",
+      "148 (base 9)"
+    ],
+    "respuesta_correcta": "161 (base 9)",
+    "explicacion": "Primero, se convierte 253 (base 7) a base 10: 2×7² + 5×7¹ + 3×7⁰ = 2×49 + 5×7 + 3×1 = 98 + 35 + 3 = 136. Luego, se convierte 136 (base 10) a base 9 mediante divisiones sucesivas: 136 ÷ 9 = 15 residuo 1; 15 ÷ 9 = 1 residuo 6; 1 ÷ 9 = 0 residuo 1. Tomando el último cociente y los residuos en orden inverso, se obtiene 161 (base 9).",
+    "dificultad": "media",
+    "item_id": "1eba6b87-ef1b-4b47-9b8e-c97a2e197d6c",
+    "concepto_id": "5_ARIT_13"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes números NO es un número racional?",
+    "opciones": [
+      "5",
+      "-3/4",
+      "√2",
+      "0.75"
+    ],
+    "respuesta_correcta": "√2",
+    "item_id": "661d86cc-bb4c-4646-bef9-b042fd6ee6c9",
+    "concepto_id": "2_ARIT_01"
+  },
+  {
+    "pregunta": "En un triángulo, dos de sus ángulos interiores miden 50° y 70°. ¿Cuál es la medida del tercer ángulo?",
+    "opciones": [
+      "50°",
+      "60°",
+      "70°",
+      "120°"
+    ],
+    "respuesta_correcta": "60°",
+    "item_id": "399e4189-f366-4df4-8daa-c13d9c7e2012",
+    "concepto_id": "2_GEO_21"
+  },
+  {
+    "pregunta": "Resuelve la siguiente ecuación exponencial para encontrar el valor de 'x': 2^(x + 3) = 32",
+    "opciones": [
+      "x = 1",
+      "x = 2",
+      "x = 3",
+      "x = 5"
+    ],
+    "respuesta_correcta": "x = 2",
+    "item_id": "99cf5a3a-0c35-441f-87b9-4f6b6505cb76",
+    "concepto_id": "4_ALG_03"
+  },
+  {
+    "pregunta": "Si el siguiente polinomio P(x, y) = 5x^(m+3)y^2 - 3x^8y^5 + 2x^9y^(n+1) es homogéneo, calcula el valor de 'm + n'.",
+    "opciones": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "respuesta_correcta": "11",
+    "explicacion": "1. Un polinomio es homogéneo si el grado absoluto (suma de exponentes de las variables) de todos sus términos es el mismo.\n2. Calculamos el grado de cada término: Grado(T1) = m+3+2 = m+5; Grado(T2) = 8+5 = 13; Grado(T3) = 9+n+1 = n+10.\n3. Igualamos los grados al valor conocido (13): m+5 = 13, de donde m = 8. Luego, n+10 = 13, de donde n = 3.\n4. Finalmente, calculamos la suma solicitada: m + n = 8 + 3 = 11.",
+    "dificultad": "media",
+    "item_id": "7f87100c-92a0-4a41-a8a6-5c6076d42339",
+    "concepto_id": "5_ALG_02"
+  },
+  {
+    "pregunta": "Halla el Máximo Común Divisor (MCD) y el Mínimo Común Múltiplo (MCM) de los polinomios P(x) = x² - 4  y  Q(x) = x² - x - 6.",
+    "opciones": [
+      "MCD = x + 2; MCM = (x - 2)(x + 2)(x - 3)",
+      "MCD = x - 2; MCM = (x + 2)(x - 2)(x + 3)",
+      "MCD = 1; MCM = (x² - 4)(x² - x - 6)",
+      "MCD = x + 2; MCM = (x - 2)(x - 3)"
+    ],
+    "respuesta_correcta": "MCD = x + 2; MCM = (x - 2)(x + 2)(x - 3)",
+    "item_id": "768e94aa-8bc4-4cde-b631-0822eea55f9b",
+    "concepto_id": "4_ALG_11"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de la siguiente suma de fracciones: 2/3 + 1/4?",
+    "opciones": [
+      "3/7",
+      "1/6",
+      "3/4",
+      "11/12"
+    ],
+    "respuesta_correcta": "11/12",
+    "item_id": "9aab191b-a56f-4158-a0fb-2d1af8e7a377",
+    "concepto_id": "2_ARIT_02"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de la siguiente suma de fracciones: 2/3 + 1/4?",
+    "opciones": [
+      "3/7",
+      "5/6",
+      "11/12",
+      "1/4"
+    ],
+    "respuesta_correcta": "11/12",
+    "item_id": "58e0116f-213d-49b5-8625-4349aec9a0ba",
+    "concepto_id": "2_ARIT_02"
+  },
+  {
+    "pregunta": "Simplifica la siguiente expresión: (81/16)^(-3/4)",
+    "opciones": [
+      "27/8",
+      "8/27",
+      "-8/27",
+      "2/3"
+    ],
+    "respuesta_correcta": "8/27",
+    "item_id": "b36087a4-ec2c-4dd3-be41-f93741ca07c0",
+    "concepto_id": "4_ALG_02"
+  },
+  {
+    "pregunta": "Al simplificar la expresión radical √(∛(x^12)), asumiendo x > 0, ¿cuál es el resultado correcto?",
+    "opciones": [
+      "x^6",
+      "x^4",
+      "x^2",
+      "x^(12/5)"
+    ],
+    "respuesta_correcta": "x^2",
+    "item_id": "60093943-d2ef-466a-9089-20b954bfdaec",
+    "concepto_id": "4_ALG_02"
+  },
+  {
+    "pregunta": "Simplifica la siguiente expresión algebraica utilizando las leyes de los exponentes y la radicación: (√x ⋅ ³√x) / ⁶√x",
+    "opciones": [
+      "x",
+      "³√x",
+      "1",
+      "³√x²"
+    ],
+    "respuesta_correcta": "³√x²",
+    "item_id": "aa1552d5-586d-4d1a-b872-4be375c448db",
+    "concepto_id": "4_ALG_02"
+  },
+  {
+    "pregunta": "Simplifica la siguiente expresión algebraica utilizando las leyes de los exponentes y radicales: (√x³ ⋅ y⁻²) / (x¹/² ⋅ y)",
+    "opciones": [
+      "x² / y³",
+      "x / y³",
+      "x² / y",
+      "xy"
+    ],
+    "respuesta_correcta": "x / y³",
+    "item_id": "c8a1f9d5-0c70-4b96-8040-f366cd675dee",
+    "concepto_id": "4_ALG_02"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de la siguiente operación de polinomios: (5x² - 3x + 2) - (2x² + 5x - 1)?",
+    "opciones": [
+      "3x² + 2x + 1",
+      "7x² + 2x + 1",
+      "3x² - 8x + 3",
+      "3x² - 8x + 1"
+    ],
+    "respuesta_correcta": "3x² - 8x + 3",
+    "item_id": "67327738-e4a2-427f-84d7-5d3c2bcab1d9",
+    "concepto_id": "3_ALG_04"
+  },
+  {
+    "pregunta": "Si P(x) = 5x² - 3x + 7 y Q(x) = 2x² + 5x - 4, ¿cuál es el resultado de P(x) - Q(x)?",
+    "opciones": [
+      "7x² + 2x + 3",
+      "3x² + 2x + 3",
+      "3x² - 8x + 11",
+      "3x² - 8x + 3"
+    ],
+    "respuesta_correcta": "3x² - 8x + 11",
+    "item_id": "7aa8dd26-ebe2-4c37-850d-ee245a2058b9",
+    "concepto_id": "3_ALG_04"
+  },
+  {
+    "pregunta": "Si P(x) = 5x² - 3x + 8 y Q(x) = 2x² + 5x - 3, ¿cuál es el resultado de P(x) - Q(x)?",
+    "opciones": [
+      "A) 3x² - 8x + 11",
+      "B) 3x² + 2x + 5",
+      "C) 7x² + 2x + 5",
+      "D) 3x² - 8x + 5"
+    ],
+    "respuesta_correcta": "A) 3x² - 8x + 11",
+    "item_id": "709a7329-a59c-4e4b-b9c0-d3e6d307b769",
+    "concepto_id": "3_ALG_04"
+  },
+  {
+    "item_id": "e38d1107-44de-420f-8622-28da293da842",
+    "concepto_id": "1_ARIT_24",
+    "pregunta": "¿Cuál es el 20% de 150?",
+    "opciones": [
+      "20",
+      "30",
+      "25",
+      "15"
+    ],
+    "respuesta_correcta": "30"
+  },
+  {
+    "item_id": "a2f3f76e-a20e-4b86-81ac-06b54cad5a93",
+    "concepto_id": "1_ALG_21",
+    "pregunta": "¿Cuál es la factorización de x² + 5x + 6?",
+    "opciones": [
+      "(x + 1)(x + 6)",
+      "(x + 2)(x + 3)",
+      "(x - 2)(x - 3)",
+      "(x + 5)(x + 1)"
+    ],
+    "respuesta_correcta": "(x + 2)(x + 3)"
+  },
+  {
+    "item_id": "827d9b7c-74ad-4051-b9c0-3994bb1db405",
+    "concepto_id": "2_GEO_03",
+    "pregunta": "Si dos rectas paralelas son cortadas por una secante, los ángulos alternos internos son...",
+    "opciones": [
+      "Suplementarios (suman 180°)",
+      "Complementarios (suman 90°)",
+      "Iguales (congruentes)",
+      "Opuestos por el vértice"
+    ],
+    "respuesta_correcta": "Iguales (congruentes)"
+  },
+  {
+    "item_id": "87eab04e-2640-4337-81eb-a4cceb6929e7",
+    "concepto_id": "2_RM_15",
+    "pregunta": "A la edad de María la multiplico por 3, luego le resto 5, y obtengo 40. ¿Cuál es la edad de María?",
+    "opciones": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "respuesta_correcta": "15"
+  },
+  {
+    "item_id": "e620dcaf-0179-444d-ba78-2929cf9c015c",
+    "concepto_id": "3_ARIT_21",
+    "pregunta": "¿Cuándo un número es divisible por 3?",
+    "opciones": [
+      "Cuando termina en 3",
+      "Cuando termina en 0 o 3",
+      "Cuando la suma de sus cifras es múltiplo de 3",
+      "Cuando es un número impar"
+    ],
+    "respuesta_correcta": "Cuando la suma de sus cifras es múltiplo de 3"
+  },
+  {
+    "item_id": "fe3e3ee5-198d-45b6-bc3f-2f2f19ebfc08",
+    "concepto_id": "3_ALG_19",
+    "pregunta": "¿Cuáles son las raíces (soluciones) de la ecuación x² - 9 = 0?",
+    "opciones": [
+      "x=3 ; x=3",
+      "x=9 ; x=-9",
+      "x=3 ; x=-3",
+      "x=0 ; x=9"
+    ],
+    "respuesta_correcta": "x=3 ; x=-3"
+  },
+  {
+    "item_id": "63015194-a50e-4f9c-a0ea-ed399c873a01",
+    "concepto_id": "3_RM_17",
+    "pregunta": "Juan tiene el doble de la edad de Pedro. Si sus edades suman 30 años, ¿cuántos años tiene Juan?",
+    "opciones": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "respuesta_correcta": "20"
+  },
+  {
+    "item_id": "9bb9a8c1-2ce3-4e1e-9739-c6b93d86b5e3",
+    "concepto_id": "4_ARIT_03",
+    "pregunta": "Las notas de un alumno son 10, 12 y 17. ¿Cuál es su promedio aritmético?",
+    "opciones": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "respuesta_correcta": "13"
+  },
+  {
+    "item_id": "ef88bc3a-9850-4402-96f7-5087420434a4",
+    "concepto_id": "4_GEO_21",
+    "pregunta": "¿Cuál de las siguientes figuras NO es un poliedro regular?",
+    "opciones": [
+      "Cubo (Hexaedro)",
+      "Tetraedro",
+      "Cilindro",
+      "Dodecaedro"
+    ],
+    "respuesta_correcta": "Cilindro"
+  },
+  {
+    "item_id": "f22bc717-8808-4ac2-891f-8d1fd5b73522",
+    "concepto_id": "4_TRIG_02",
+    "pregunta": "¿A cuántos grados sexagesimales equivale un ángulo de π (pi) radianes?",
+    "opciones": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "respuesta_correcta": "180°"
+  },
+  {
+    "item_id": "294a2e35-f955-42b4-b48d-bf479389e738",
+    "concepto_id": "5_ARIT_09",
+    "pregunta": "Se deposita un capital de S/ 2000 a una tasa de interés simple anual del 5%. ¿Cuánto interés ganará en 3 años?",
+    "opciones": [
+      "S/ 100",
+      "S/ 150",
+      "S/ 200",
+      "S/ 300"
+    ],
+    "respuesta_correcta": "S/ 300"
+  },
+  {
+    "item_id": "b2dce36f-12f1-4193-ab7e-ac42ccbfa5ed",
+    "concepto_id": "5_ALG_15",
+    "pregunta": "Usando la fórmula general, ¿cuáles son las soluciones de x² - 5x + 6 = 0?",
+    "opciones": [
+      "x=2 ; x=3",
+      "x=-2 ; x=-3",
+      "x=1 ; x=6",
+      "x=-1 ; x=-6"
+    ],
+    "respuesta_correcta": "x=2 ; x=3"
+  },
+  {
+    "item_id": "cc31eb6d-4663-4de6-99d4-b29698ab15e8",
+    "concepto_id": "5_GEO_05",
+    "pregunta": "¿Cuánto mide cada ángulo interior de un hexágono regular?",
+    "opciones": [
+      "90°",
+      "108°",
+      "120°",
+      "135°"
+    ],
+    "respuesta_correcta": "120°"
+  },
+  {
+    "item_id": "76b12a47-dec6-4779-9337-675bfbdd544c",
+    "concepto_id": "5_TRIG_08",
+    "pregunta": "¿A qué es igual el Sen(150°)?",
+    "opciones": [
+      "Sen(30°)",
+      "-Sen(30°)",
+      "Cos(30°)",
+      "-Cos(30°)"
+    ],
+    "respuesta_correcta": "Sen(30°)"
+  },
+  {
+    "item_id": "ad2f5821-b731-4d9e-a909-3bf81c6093db",
+    "concepto_id": "1_GEO_23",
+    "pregunta": "En un triángulo notable de 45° y 45°, si los catetos miden 5, ¿cuánto mide la hipotenusa?",
+    "opciones": [
+      "5",
+      "10",
+      "5√2",
+      "5√3"
+    ],
+    "respuesta_correcta": "5√2"
+  },
+  {
+    "item_id": "61035be2-896d-4a51-b2c5-6618767dd89b",
+    "concepto_id": "2_ARIT_15",
+    "pregunta": "¿Cuál de los siguientes números es irracional?",
+    "opciones": [
+      "1/2",
+      "0.75",
+      "√4",
+      "π (pi)"
+    ],
+    "respuesta_correcta": "π (pi)"
+  },
+  {
+    "item_id": "be54e98c-c33e-4cee-9a8f-8fbfc45439e8",
+    "concepto_id": "3_ALG_26",
+    "pregunta": "Si log₁₀(x) = 2, ¿cuál es el valor de x?",
+    "opciones": [
+      "10",
+      "20",
+      "100",
+      "2"
+    ],
+    "respuesta_correcta": "100"
+  },
+  {
+    "item_id": "735f7b8b-0d5b-466a-9a41-59ab0fd9310a",
+    "concepto_id": "4_RM_11",
+    "pregunta": "María gastó 1/3 de su dinero en ropa y 1/4 en comida. ¿Qué fracción de su dinero le queda?",
+    "opciones": [
+      "1/2",
+      "7/12",
+      "5/12",
+      "1/6"
+    ],
+    "respuesta_correcta": "5/12"
+  },
+  {
+    "item_id": "09e18ba8-14f5-42df-b604-d9326a0bec20",
+    "concepto_id": "5_RM_08",
+    "pregunta": "Hace 5 años, la edad de Ana era 15 años. ¿Cuál será su edad dentro de 10 años?",
+    "opciones": [
+      "20 años",
+      "25 años",
+      "30 años",
+      "35 años"
+    ],
+    "respuesta_correcta": "30 años"
+  },
+  {
+    "item_id": "f975d6f7-effa-400c-8b94-c8509142532b",
+    "concepto_id": "1_ARIT_13",
+    "pregunta": "¿Cuál es el resultado de (-3)²?",
+    "opciones": [
+      "9",
+      "-9",
+      "6",
+      "-6"
+    ],
+    "respuesta_correcta": "9"
+  },
+  {
+    "item_id": "d727ec84-6828-447e-9dab-b1d98dfb433c",
+    "concepto_id": "2_ALG_08",
+    "pregunta": "¿Cuál es el desarrollo de (x - 4)²?",
+    "opciones": [
+      "x² - 16",
+      "x² + 16",
+      "x² - 8x + 16",
+      "x² + 8x + 16"
+    ],
+    "respuesta_correcta": "x² - 8x + 16"
+  },
+  {
+    "item_id": "9b38b3e9-1a17-43f0-9ff1-7fd7bce6d4fa",
+    "concepto_id": "3_GEO_24",
+    "pregunta": "Si un ángulo inscrito en una circunferencia subtiende un arco de 80°, ¿cuánto mide el ángulo inscrito?",
+    "opciones": [
+      "80°",
+      "160°",
+      "40°",
+      "20°"
+    ],
+    "respuesta_correcta": "40°"
+  },
+  {
+    "item_id": "825b0f8d-5b63-4e10-83a7-00d70180a544",
+    "concepto_id": "4_ALG_18",
+    "pregunta": "Si f(x) = 2x + 1, ¿cuál es el valor de f(3)?",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "respuesta_correcta": "7"
+  },
+  {
+    "item_id": "071dfb03-8111-4daa-9945-aad3b29296c8",
+    "concepto_id": "5_ARIT_04",
+    "pregunta": "Si 4 obreros construyen una pared en 10 días, ¿cuántos días tardarán 5 obreros en construir la misma pared?",
+    "opciones": [
+      "8 días",
+      "12 días",
+      "12.5 días",
+      "7 días"
+    ],
+    "respuesta_correcta": "8 días"
+  },
+  {
+    "item_id": "29d48f26-d109-454e-bc4b-507f1c6362ba",
+    "concepto_id": "1_RM_22",
+    "pregunta": "Si el conjunto A = {a, b, c, d}, ¿cuántos elementos tiene el conjunto potencia de A (P(A))?",
+    "opciones": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "respuesta_correcta": "16"
+  },
+  {
+    "item_id": "e38d1107-44de-420f-8622-28da293da842",
+    "concepto_id": "1_ARIT_24",
+    "pregunta": "¿Cuál es el 20% de 150?",
+    "opciones": [
+      "20",
+      "30",
+      "25",
+      "15"
+    ],
+    "respuesta_correcta": "30"
+  },
+  {
+    "item_id": "a2f3f76e-a20e-4b86-81ac-06b54cad5a93",
+    "concepto_id": "1_ALG_21",
+    "pregunta": "¿Cuál es la factorización de x² + 5x + 6?",
+    "opciones": [
+      "(x + 1)(x + 6)",
+      "(x + 2)(x + 3)",
+      "(x - 2)(x - 3)",
+      "(x + 5)(x + 1)"
+    ],
+    "respuesta_correcta": "(x + 2)(x + 3)"
+  },
+  {
+    "item_id": "827d9b7c-74ad-4051-b9c0-3994bb1db405",
+    "concepto_id": "2_GEO_03",
+    "pregunta": "Si dos rectas paralelas son cortadas por una secante, los ángulos alternos internos son...",
+    "opciones": [
+      "Suplementarios (suman 180°)",
+      "Complementarios (suman 90°)",
+      "Iguales (congruentes)",
+      "Opuestos por el vértice"
+    ],
+    "respuesta_correcta": "Iguales (congruentes)"
+  },
+  {
+    "item_id": "87eab04e-2640-4337-81eb-a4cceb6929e7",
+    "concepto_id": "2_RM_15",
+    "pregunta": "A la edad de María la multiplico por 3, luego le resto 5, y obtengo 40. ¿Cuál es la edad de María?",
+    "opciones": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "respuesta_correcta": "15"
+  },
+  {
+    "item_id": "e620dcaf-0179-444d-ba78-2929cf9c015c",
+    "concepto_id": "3_ARIT_21",
+    "pregunta": "¿Cuándo un número es divisible por 3?",
+    "opciones": [
+      "Cuando termina en 3",
+      "Cuando termina en 0 o 3",
+      "Cuando la suma de sus cifras es múltiplo de 3",
+      "Cuando es un número impar"
+    ],
+    "respuesta_correcta": "Cuando la suma de sus cifras es múltiplo de 3"
+  },
+  {
+    "item_id": "fe3e3ee5-198d-45b6-bc3f-2f2f19ebfc08",
+    "concepto_id": "3_ALG_19",
+    "pregunta": "¿Cuáles son las raíces (soluciones) de la ecuación x² - 9 = 0?",
+    "opciones": [
+      "x=3 ; x=3",
+      "x=9 ; x=-9",
+      "x=3 ; x=-3",
+      "x=0 ; x=9"
+    ],
+    "respuesta_correcta": "x=3 ; x=-3"
+  },
+  {
+    "item_id": "63015194-a50e-4f9c-a0ea-ed399c873a01",
+    "concepto_id": "3_RM_17",
+    "pregunta": "Juan tiene el doble de la edad de Pedro. Si sus edades suman 30 años, ¿cuántos años tiene Juan?",
+    "opciones": [
+      "10",
+      "15",
+      "20",
+      "25"
+    ],
+    "respuesta_correcta": "20"
+  },
+  {
+    "item_id": "9bb9a8c1-2ce3-4e1e-9739-c6b93d86b5e3",
+    "concepto_id": "4_ARIT_03",
+    "pregunta": "Las notas de un alumno son 10, 12 y 17. ¿Cuál es su promedio aritmético?",
+    "opciones": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "respuesta_correcta": "13"
+  },
+  {
+    "item_id": "ef88bc3a-9850-4402-96f7-5087420434a4",
+    "concepto_id": "4_GEO_21",
+    "pregunta": "¿Cuál de las siguientes figuras NO es un poliedro regular?",
+    "opciones": [
+      "Cubo (Hexaedro)",
+      "Tetraedro",
+      "Cilindro",
+      "Dodecaedro"
+    ],
+    "respuesta_correcta": "Cilindro"
+  },
+  {
+    "item_id": "f22bc717-8808-4ac2-891f-8d1fd5b73522",
+    "concepto_id": "4_TRIG_02",
+    "pregunta": "¿A cuántos grados sexagesimales equivale un ángulo de π (pi) radianes?",
+    "opciones": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "respuesta_correcta": "180°"
+  },
+  {
+    "item_id": "294a2e35-f955-42b4-b48d-bf479389e738",
+    "concepto_id": "5_ARIT_09",
+    "pregunta": "Se deposita un capital de S/ 2000 a una tasa de interés simple anual del 5%. ¿Cuánto interés ganará en 3 años?",
+    "opciones": [
+      "S/ 100",
+      "S/ 150",
+      "S/ 200",
+      "S/ 300"
+    ],
+    "respuesta_correcta": "S/ 300"
+  },
+  {
+    "item_id": "b2dce36f-12f1-4193-ab7e-ac42ccbfa5ed",
+    "concepto_id": "5_ALG_15",
+    "pregunta": "Usando la fórmula general, ¿cuáles son las soluciones de x² - 5x + 6 = 0?",
+    "opciones": [
+      "x=2 ; x=3",
+      "x=-2 ; x=-3",
+      "x=1 ; x=6",
+      "x=-1 ; x=-6"
+    ],
+    "respuesta_correcta": "x=2 ; x=3"
+  },
+  {
+    "item_id": "cc31eb6d-4663-4de6-99d4-b29698ab15e8",
+    "concepto_id": "5_GEO_05",
+    "pregunta": "¿Cuánto mide cada ángulo interior de un hexágono regular?",
+    "opciones": [
+      "90°",
+      "108°",
+      "120°",
+      "135°"
+    ],
+    "respuesta_correcta": "120°"
+  },
+  {
+    "item_id": "76b12a47-dec6-4779-9337-675bfbdd544c",
+    "concepto_id": "5_TRIG_08",
+    "pregunta": "¿A qué es igual el Sen(150°)?",
+    "opciones": [
+      "Sen(30°)",
+      "-Sen(30°)",
+      "Cos(30°)",
+      "-Cos(30°)"
+    ],
+    "respuesta_correcta": "Sen(30°)"
+  },
+  {
+    "item_id": "ad2f5821-b731-4d9e-a909-3bf81c6093db",
+    "concepto_id": "1_GEO_23",
+    "pregunta": "En un triángulo notable de 45° y 45°, si los catetos miden 5, ¿cuánto mide la hipotenusa?",
+    "opciones": [
+      "5",
+      "10",
+      "5√2",
+      "5√3"
+    ],
+    "respuesta_correcta": "5√2"
+  },
+  {
+    "item_id": "61035be2-896d-4a51-b2c5-6618767dd89b",
+    "concepto_id": "2_ARIT_15",
+    "pregunta": "¿Cuál de los siguientes números es irracional?",
+    "opciones": [
+      "1/2",
+      "0.75",
+      "√4",
+      "π (pi)"
+    ],
+    "respuesta_correcta": "π (pi)"
+  },
+  {
+    "item_id": "be54e98c-c33e-4cee-9a8f-8fbfc45439e8",
+    "concepto_id": "3_ALG_26",
+    "pregunta": "Si log₁₀(x) = 2, ¿cuál es el valor de x?",
+    "opciones": [
+      "10",
+      "20",
+      "100",
+      "2"
+    ],
+    "respuesta_correcta": "100"
+  },
+  {
+    "item_id": "735f7b8b-0d5b-466a-9a41-59ab0fd9310a",
+    "concepto_id": "4_RM_11",
+    "pregunta": "María gastó 1/3 de su dinero en ropa y 1/4 en comida. ¿Qué fracción de su dinero le queda?",
+    "opciones": [
+      "1/2",
+      "7/12",
+      "5/12",
+      "1/6"
+    ],
+    "respuesta_correcta": "5/12"
+  },
+  {
+    "item_id": "09e18ba8-14f5-42df-b604-d9326a0bec20",
+    "concepto_id": "5_RM_08",
+    "pregunta": "Hace 5 años, la edad de Ana era 15 años. ¿Cuál será su edad dentro de 10 años?",
+    "opciones": [
+      "20 años",
+      "25 años",
+      "30 años",
+      "35 años"
+    ],
+    "respuesta_correcta": "30 años"
+  },
+  {
+    "item_id": "f975d6f7-effa-400c-8b94-c8509142532b",
+    "concepto_id": "1_ARIT_13",
+    "pregunta": "¿Cuál es el resultado de (-3)²?",
+    "opciones": [
+      "9",
+      "-9",
+      "6",
+      "-6"
+    ],
+    "respuesta_correcta": "9"
+  },
+  {
+    "item_id": "d727ec84-6828-447e-9dab-b1d98dfb433c",
+    "concepto_id": "2_ALG_08",
+    "pregunta": "¿Cuál es el desarrollo de (x - 4)²?",
+    "opciones": [
+      "x² - 16",
+      "x² + 16",
+      "x² - 8x + 16",
+      "x² + 8x + 16"
+    ],
+    "respuesta_correcta": "x² - 8x + 16"
+  },
+  {
+    "item_id": "9b38b3e9-1a17-43f0-9ff1-7fd7bce6d4fa",
+    "concepto_id": "3_GEO_24",
+    "pregunta": "Si un ángulo inscrito en una circunferencia subtiende un arco de 80°, ¿cuánto mide el ángulo inscrito?",
+    "opciones": [
+      "80°",
+      "160°",
+      "40°",
+      "20°"
+    ],
+    "respuesta_correcta": "40°"
+  },
+  {
+    "item_id": "825b0f8d-5b63-4e10-83a7-00d70180a544",
+    "concepto_id": "4_ALG_18",
+    "pregunta": "Si f(x) = 2x + 1, ¿cuál es el valor de f(3)?",
+    "opciones": [
+      "5",
+      "6",
+      "7",
+      "4"
+    ],
+    "respuesta_correcta": "7"
+  },
+  {
+    "item_id": "071dfb03-8111-4daa-9945-aad3b29296c8",
+    "concepto_id": "5_ARIT_04",
+    "pregunta": "Si 4 obreros construyen una pared en 10 días, ¿cuántos días tardarán 5 obreros en construir la misma pared?",
+    "opciones": [
+      "8 días",
+      "12 días",
+      "12.5 días",
+      "7 días"
+    ],
+    "respuesta_correcta": "8 días"
+  },
+  {
+    "item_id": "29d48f26-d109-454e-bc4b-507f1c6362ba",
+    "concepto_id": "1_RM_22",
+    "pregunta": "Si el conjunto A = {a, b, c, d}, ¿cuántos elementos tiene el conjunto potencia de A (P(A))?",
+    "opciones": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "respuesta_correcta": "16"
+  },
+  {
+    "item_id": "bf658ee7-b2ba-45b8-a372-3c250f5306c1",
+    "concepto_id": "1_ARIT_10",
+    "pregunta": "¿Cuál es el resultado de multiplicar (-5) por (-3)?",
+    "opciones": [
+      "15",
+      "-15",
+      "8",
+      "-8"
+    ],
+    "respuesta_correcta": "15"
+  },
+  {
+    "item_id": "7c0bde32-f7bf-43ab-a101-4ffc6d8ea021",
+    "concepto_id": "1_ALG_12",
+    "pregunta": "Usando la Identidad de Steven, desarrolla (x + 3)(x + 2).",
+    "opciones": [
+      "x² + 5x + 6",
+      "x² + 6x + 5",
+      "x² + 2x + 3",
+      "x² + 5x + 5"
+    ],
+    "respuesta_correcta": "x² + 5x + 6"
+  },
+  {
+    "item_id": "0f7d6887-5771-4f7a-b185-e5c6e1d5fcb5",
+    "concepto_id": "1_GEO_11",
+    "pregunta": "Un ángulo que mide 120° se clasifica como:",
+    "opciones": [
+      "Agudo",
+      "Recto",
+      "Obtuso",
+      "Llano"
+    ],
+    "respuesta_correcta": "Obtuso"
+  },
+  {
+    "item_id": "289aeb06-4796-4049-9fdc-163d21f38988",
+    "concepto_id": "1_RM_03",
+    "pregunta": "Ana es mayor que Berta y Berta es mayor que Carla. ¿Quién es la menor?",
+    "opciones": [
+      "Ana",
+      "Berta",
+      "Carla",
+      "No se puede saber"
+    ],
+    "respuesta_correcta": "Carla"
+  },
+  {
+    "item_id": "858d2248-3c11-46dd-8ac7-b0ada89126dd",
+    "concepto_id": "2_ARIT_18",
+    "pregunta": "¿Cómo se representa el intervalo que incluye todos los números entre 3 y 7, incluyendo el 3 pero no el 7?",
+    "opciones": [
+      "(3, 7)",
+      "[3, 7]",
+      "[3, 7)",
+      "(3, 7]"
+    ],
+    "respuesta_correcta": "[3, 7)"
+  },
+  {
+    "item_id": "72a3745d-bd05-4a63-894f-bb0d39649163",
+    "concepto_id": "2_ALG_10",
+    "pregunta": "Calcula el cociente de (8x⁶y³) / (2x²y).",
+    "opciones": [
+      "4x³y³",
+      "6x⁴y²",
+      "4x⁴y²",
+      "4x⁸y⁴"
+    ],
+    "respuesta_correcta": "4x⁴y²"
+  },
+  {
+    "item_id": "0bde6301-8384-44c3-acb0-ecd38559d9fb",
+    "concepto_id": "2_GEO_08",
+    "pregunta": "¿Cómo se llama el triángulo que tiene un ángulo de 90°?",
+    "opciones": [
+      "Acutángulo",
+      "Obtusángulo",
+      "Rectángulo",
+      "Equilátero"
+    ],
+    "respuesta_correcta": "Rectángulo"
+  },
+  {
+    "item_id": "564d19a4-d730-467a-a0e1-5764a56b2041",
+    "concepto_id": "2_RM_10",
+    "pregunta": "Si 5 lápices cuestan S/ 10, ¿cuánto costarán 7 lápices?",
+    "opciones": [
+      "S/ 12",
+      "S/ 14",
+      "S/ 15",
+      "S/ 17"
+    ],
+    "respuesta_correcta": "S/ 14"
+  },
+  {
+    "item_id": "bc93d13f-bcf5-424e-b7a9-28197fe00687",
+    "concepto_id": "3_ARIT_12",
+    "pregunta": "¿Cuál es la forma simplificada de √18?",
+    "opciones": [
+      "2√9",
+      "9√2",
+      "3√2",
+      "6√3"
+    ],
+    "respuesta_correcta": "3√2"
+  },
+  {
+    "item_id": "ceaa6160-1dfc-499f-9197-2da6fba4e447",
+    "concepto_id": "3_ALG_02",
+    "pregunta": "¿Cuál es el Grado Absoluto (G.A.) del monomio 7x³y⁵z¹?",
+    "opciones": [
+      "5",
+      "3",
+      "8",
+      "9"
+    ],
+    "respuesta_correcta": "9"
+  },
+  {
+    "item_id": "1c56b2c8-b0a4-4167-8729-cef60bb46aff",
+    "concepto_id": "3_GEO_10",
+    "pregunta": "Dos triángulos son congruentes por el caso ALA si tienen iguales:",
+    "opciones": [
+      "Dos lados y el ángulo entre ellos",
+      "Dos ángulos y el lado entre ellos",
+      "Sus tres lados",
+      "Sus tres ángulos"
+    ],
+    "respuesta_correcta": "Dos ángulos y el lado entre ellos"
+  },
+  {
+    "item_id": "d0f31eb3-fa46-4dfc-8e4d-711cfb4b0e06",
+    "concepto_id": "3_RM_04",
+    "pregunta": "Juan compró un pantalón por S/ 50 y una camisa por S/ 30. Si pagó con un billete de S/ 100, ¿cuánto recibió de vuelto?",
+    "opciones": [
+      "S/ 10",
+      "S/ 20",
+      "S/ 30",
+      "S/ 80"
+    ],
+    "respuesta_correcta": "S/ 20"
+  },
+  {
+    "item_id": "f7cdc4bf-8762-4100-a614-c28df1b5ade9",
+    "concepto_id": "4_ARIT_01",
+    "pregunta": "La igualdad de dos razones geométricas, a/b = c/d, se denomina:",
+    "opciones": [
+      "Razón aritmética",
+      "Proporción geométrica",
+      "Serie de razones",
+      "Magnitud"
+    ],
+    "respuesta_correcta": "Proporción geométrica"
+  },
+  {
+    "item_id": "c48cb6e1-3483-4c50-ab5b-ca302f3e0115",
+    "concepto_id": "4_ALG_19",
+    "pregunta": "¿Cuál es el dominio de la función f(x) = 1 / (x - 2)?",
+    "opciones": [
+      "Todos los números reales",
+      "Todos los reales excepto 0",
+      "Todos los reales excepto 2",
+      "Todos los reales excepto 1"
+    ],
+    "respuesta_correcta": "Todos los reales excepto 2"
+  },
+  {
+    "item_id": "f3a9dd50-fcf1-49e7-b69d-b43963791cad",
+    "concepto_id": "4_GEO_03",
+    "pregunta": "¿Cuánto suman los ángulos interiores de cualquier triángulo?",
+    "opciones": [
+      "90°",
+      "180°",
+      "360°",
+      "Depende del triángulo"
+    ],
+    "respuesta_correcta": "180°"
+  },
+  {
+    "item_id": "190d795b-a56e-4f9f-a0bc-be2f5e31d80f",
+    "concepto_id": "4_TRIG_04",
+    "pregunta": "La fórmula para calcular la Longitud de Arco (L) es (donde θ es el ángulo en radianes y r es el radio):",
+    "opciones": [
+      "L = θ / r",
+      "L = r / θ",
+      "L = θ * r",
+      "L = 2 * θ * r"
+    ],
+    "respuesta_correcta": "L = θ * r"
+  },
+  {
+    "item_id": "ec5738c6-a88d-4b45-bb77-68eeb17a1df1",
+    "concepto_id": "4_RM_16",
+    "pregunta": "Calcula la suma de la serie: 1 + 2 + 3 + ... + 10",
+    "opciones": [
+      "11",
+      "50",
+      "55",
+      "100"
+    ],
+    "respuesta_correcta": "55"
+  },
+  {
+    "item_id": "09a6a8aa-8e49-4f0b-9277-5d61210d821e",
+    "concepto_id": "5_ARIT_01",
+    "pregunta": "La razón de hombres a mujeres en una fiesta es de 2 a 3. Si hay 10 hombres, ¿cuántas mujeres hay?",
+    "opciones": [
+      "12",
+      "13",
+      "15",
+      "20"
+    ],
+    "respuesta_correcta": "15"
+  },
+  {
+    "item_id": "fabd0e89-b830-437e-a4b6-9f67e28ac194",
+    "concepto_id": "5_ALG_06",
+    "pregunta": "¿Cuál es el desarrollo del cociente notable (x³ - y³) / (x - y)?",
+    "opciones": [
+      "x² - xy + y²",
+      "x² + xy + y²",
+      "x + y",
+      "x - y"
+    ],
+    "respuesta_correcta": "x² + xy + y²"
+  },
+  {
+    "item_id": "1a799752-d3fa-467a-9901-896e2e5bb519",
+    "concepto_id": "5_GEO_01",
+    "pregunta": "Calcula el ángulo suplementario de 70°.",
+    "opciones": [
+      "20°",
+      "110°",
+      "70°",
+      "290°"
+    ],
+    "respuesta_correcta": "110°"
+  },
+  {
+    "item_id": "a002f6a9-6301-41e4-a499-b50284f465b6",
+    "concepto_id": "5_TRIG_02",
+    "pregunta": "En un triángulo rectángulo, ¿a qué es igual el Coseno (Cos) de un ángulo agudo?",
+    "opciones": [
+      "Cateto Opuesto / Hipotenusa",
+      "Cateto Adyacente / Hipotenusa",
+      "Cateto Opuesto / Cateto Adyacente",
+      "Hipotenusa / Cateto Adyacente"
+    ],
+    "respuesta_correcta": "Cateto Adyacente / Hipotenusa"
+  },
+  {
+    "item_id": "3ebdd011-085c-466d-ac20-e7bf75aad7dd",
+    "concepto_id": "5_RM_13",
+    "pregunta": "¿Qué número sigue en la sucesión: 5, 10, 15, 20, ...?",
+    "opciones": [
+      "22",
+      "25",
+      "30",
+      "40"
+    ],
+    "respuesta_correcta": "25"
+  },
+  {
+    "item_id": "70e3f75f-4c3a-439d-8526-63cc608706d8",
+    "concepto_id": "1_ARIT_21",
+    "pregunta": "Si la magnitud A es Directamente Proporcional (DP) a B, y cuando A=10, B=2. Calcula A cuando B=3.",
+    "opciones": [
+      "12",
+      "15",
+      "20",
+      "5"
+    ],
+    "respuesta_correcta": "15"
+  },
+  {
+    "item_id": "d631bbbb-54e7-4cdc-ba95-14bc8accc75f",
+    "concepto_id": "2_ARIT_25",
+    "pregunta": "Un artículo que cuesta S/ 100 tiene un descuento del 10%. ¿Cuál es el precio final?",
+    "opciones": [
+      "S/ 110",
+      "S/ 10",
+      "S/ 90",
+      "S/ 80"
+    ],
+    "respuesta_correcta": "S/ 90"
+  },
+  {
+    "item_id": "8ff84159-a907-4d4c-93a0-78481d8f228a",
+    "concepto_id": "3_ARIT_23",
+    "pregunta": "¿Cuál es el Mínimo Común Múltiplo (MCM) de 4 y 6?",
+    "opciones": [
+      "2",
+      "4",
+      "12",
+      "24"
+    ],
+    "respuesta_correcta": "12"
+  },
+  {
+    "item_id": "e0089d3a-21bc-432b-8364-a4c7eb0d5e75",
+    "concepto_id": "1_ARIT_01",
+    "pregunta": "¿Cómo se llama el sistema de numeración que utiliza 10 dígitos (0 al 9)?",
+    "opciones": [
+      "Binario",
+      "Decimal",
+      "Octal",
+      "Hexadecimal"
+    ],
+    "respuesta_correcta": "Decimal"
+  },
+  {
+    "item_id": "55bc2141-59f3-4b7f-96e4-485401957a7d",
+    "concepto_id": "1_ALG_13",
+    "pregunta": "¿Cuál es la factorización de a³ + b³?",
+    "opciones": [
+      "(a + b)(a² - ab + b²)",
+      "(a - b)(a² + ab + b²)",
+      "(a + b)²",
+      "(a + b)(a² + b²)"
+    ],
+    "respuesta_correcta": "(a + b)(a² - ab + b²)"
+  },
+  {
+    "item_id": "2deb1234-42d7-4ed2-851f-b57ffb875244",
+    "concepto_id": "1_GEO_02",
+    "pregunta": "¿Cuál es el concepto geométrico básico que no tiene dimensiones (largo, ancho o alto)?",
+    "opciones": [
+      "Recta",
+      "Plano",
+      "Punto",
+      "Segmento"
+    ],
+    "respuesta_correcta": "Punto"
+  },
+  {
+    "item_id": "0c0ac85b-dfaa-41c3-a27e-ef6e4d43f68f",
+    "concepto_id": "1_RM_01",
+    "pregunta": "En una caja hay 3 calcetines rojos y 3 azules. ¿Cuántos calcetines debes sacar como mínimo, sin mirar, para asegurar que tienes un par del mismo color?",
+    "opciones": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "respuesta_correcta": "3"
+  },
+  {
+    "item_id": "30798c41-3e17-40a8-9bc7-4d03e832a5b1",
+    "concepto_id": "2_ARIT_09",
+    "pregunta": "El número 0.25, ¿qué tipo de decimal es?",
+    "opciones": [
+      "Decimal exacto",
+      "Decimal periódico puro",
+      "Decimal periódico mixto",
+      "Decimal irracional"
+    ],
+    "respuesta_correcta": "Decimal exacto"
+  },
+  {
+    "item_id": "12232e73-66ee-4483-9323-2bece8f7cefc",
+    "concepto_id": "2_ALG_07",
+    "pregunta": "¿Cuál es el resultado de multiplicar 3x por (x + 2)?",
+    "opciones": [
+      "3x² + 6x",
+      "3x + 6",
+      "4x + 2",
+      "3x² + 2"
+    ],
+    "respuesta_correcta": "3x² + 6x"
+  },
+  {
+    "item_id": "19b3ed86-c426-4e0a-89cd-5d6b181b66dc",
+    "concepto_id": "2_GEO_09",
+    "pregunta": "¿Cómo se llama el triángulo que tiene sus tres lados de igual longitud?",
+    "opciones": [
+      "Isósceles",
+      "Escaleno",
+      "Rectángulo",
+      "Equilátero"
+    ],
+    "respuesta_correcta": "Equilátero"
+  },
+  {
+    "item_id": "d5305bc8-eda9-4b6d-8fec-6a07c466fc10",
+    "concepto_id": "2_RM_01",
+    "pregunta": "Si 'Todos los mamíferos respiran' y 'Una ballena es un mamífero', ¿qué se concluye?",
+    "opciones": [
+      "La ballena vive en el agua",
+      "La ballena respira",
+      "Algunos mamíferos son ballenas",
+      "Respirar es de mamíferos"
+    ],
+    "respuesta_correcta": "La ballena respira"
+  },
+  {
+    "item_id": "b8c3d88f-d6d6-4ea6-ac70-41bd6abfa31c",
+    "concepto_id": "3_ARIT_02",
+    "pregunta": "Si A = {1, 2, 3} y B = {3, 4, 5}, ¿cuál es la unión (A U B)?",
+    "opciones": [
+      "{3}",
+      "{1, 2, 4, 5}",
+      "{1, 2, 3, 3, 4, 5}",
+      "{1, 2, 3, 4, 5}"
+    ],
+    "respuesta_correcta": "{1, 2, 3, 4, 5}"
+  },
+  {
+    "item_id": "29ad49f6-dcdf-4c5d-8c89-b4a8c4d83873",
+    "concepto_id": "3_ALG_08",
+    "pregunta": "Desarrolla el binomio al cuadrado: (2x + 1)²",
+    "opciones": [
+      "4x² + 1",
+      "2x² + 1",
+      "4x² + 4x + 1",
+      "4x² + 2x + 1"
+    ],
+    "respuesta_correcta": "4x² + 4x + 1"
+  },
+  {
+    "item_id": "a8d2d1c5-9d96-4232-af65-99ca3f6ea04e",
+    "concepto_id": "3_GEO_01",
+    "pregunta": "Dos ángulos son complementarios si suman...",
+    "opciones": [
+      "180°",
+      "90°",
+      "360°",
+      "45°"
+    ],
+    "respuesta_correcta": "90°"
+  },
+  {
+    "item_id": "d564c518-bbeb-43c7-b824-95f27ed18309",
+    "concepto_id": "3_RM_08",
+    "pregunta": "Completa la analogía: 3 es a 9 como 4 es a ...",
+    "opciones": [
+      "12",
+      "16",
+      "8",
+      "7"
+    ],
+    "respuesta_correcta": "16"
+  },
+  {
+    "item_id": "fb017a63-9206-4151-b0c8-b6a89cb64eeb",
+    "concepto_id": "4_ARIT_15",
+    "pregunta": "¿Cuál es el resultado de 10 - (-5) + 3?",
+    "opciones": [
+      "2",
+      "8",
+      "18",
+      "12"
+    ],
+    "respuesta_correcta": "18"
+  },
+  {
+    "item_id": "043d7925-cf9d-4e05-8c46-da0a6161b1fc",
+    "concepto_id": "4_ALG_12",
+    "pregunta": "Simplifica la expresión: √20",
+    "opciones": [
+      "4√5",
+      "5√2",
+      "10",
+      "2√5"
+    ],
+    "respuesta_correcta": "2√5"
+  },
+  {
+    "item_id": "ffb8c4c4-e198-45b3-a2ef-190830221e7a",
+    "concepto_id": "4_GEO_08",
+    "pregunta": "¿Cómo se llama el cuadrilátero que tiene todos sus lados iguales y sus ángulos rectos?",
+    "opciones": [
+      "Rombo",
+      "Rectángulo",
+      "Cuadrado",
+      "Trapecio"
+    ],
+    "respuesta_correcta": "Cuadrado"
+  },
+  {
+    "item_id": "056e08a1-4e9e-4058-bb98-32711d3c68d8",
+    "concepto_id": "4_TRIG_01",
+    "pregunta": "Un ángulo generado en sentido antihorario se considera...",
+    "opciones": [
+      "Positivo",
+      "Negativo",
+      "Nulo",
+      "Recto"
+    ],
+    "respuesta_correcta": "Positivo"
+  },
+  {
+    "item_id": "2aff6f7a-c0d6-4a76-a8ca-d90e9da85778",
+    "concepto_id": "4_RM_02",
+    "pregunta": "En una granja hay 10 cabezas y 28 patas (entre gallinas y conejos). ¿Cuántos conejos hay?",
+    "opciones": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "respuesta_correcta": "4"
+  },
+  {
+    "item_id": "c1580043-09aa-414a-a88d-5985643abc72",
+    "concepto_id": "5_ARIT_07",
+    "pregunta": "Si un producto cuesta S/ 80 y se le aplica un IGV (Impuesto General a las Ventas) del 18%, ¿cuánto es el impuesto a pagar?",
+    "opciones": [
+      "S/ 1.80",
+      "S/ 18.00",
+      "S/ 14.40",
+      "S/ 8.00"
+    ],
+    "respuesta_correcta": "S/ 14.40"
+  },
+  {
+    "item_id": "bd79d533-cac7-4689-afe7-604937590a84",
+    "concepto_id": "5_ALG_03",
+    "pregunta": "¿Cuál es el resultado de (x + y)² - (x - y)²?",
+    "opciones": [
+      "0",
+      "2y²",
+      "2x²",
+      "4xy"
+    ],
+    "respuesta_correcta": "4xy"
+  },
+  {
+    "item_id": "564bcd8e-b46d-43eb-b3cd-d9f66acb62ce",
+    "concepto_id": "5_GEO_09",
+    "pregunta": "El Teorema de Thales establece que si tres rectas paralelas cortan a dos secantes, entonces...",
+    "opciones": [
+      "Los segmentos son iguales",
+      "Los segmentos son perpendiculares",
+      "Determinan segmentos proporcionales",
+      "Forman ángulos rectos"
+    ],
+    "respuesta_correcta": "Determinan segmentos proporcionales"
+  },
+  {
+    "item_id": "58b739c6-b72c-416a-8093-2518b0920bef",
+    "concepto_id": "5_TRIG_06",
+    "pregunta": "¿En qué cuadrante el Seno es positivo y el Coseno es negativo?",
+    "opciones": [
+      "Primer Cuadrante",
+      "Segundo Cuadrante",
+      "Tercer Cuadrante",
+      "Cuarto Cuadrante"
+    ],
+    "respuesta_correcta": "Segundo Cuadrante"
+  },
+  {
+    "item_id": "39e1ecf9-8809-4f2b-acf7-1dce759cd305",
+    "concepto_id": "5_RM_02",
+    "pregunta": "Calcula la suma de las cifras del resultado de (999)².",
+    "opciones": [
+      "18",
+      "27",
+      "9",
+      "36"
+    ],
+    "respuesta_correcta": "27"
+  },
+  {
+    "item_id": "191cb587-e4b5-4fbf-9954-2b2bf7a8224a",
+    "concepto_id": "1_ARIT_16",
+    "pregunta": "¿Cuál es el resultado de 1/5 + 2/5?",
+    "opciones": [
+      "3/10",
+      "2/25",
+      "3/5",
+      "1/2"
+    ],
+    "respuesta_correcta": "3/5"
+  },
+  {
+    "item_id": "249d2057-076e-44e4-88bf-fa1633a20f5c",
+    "concepto_id": "2_ALG_26",
+    "pregunta": "En la ecuación x² - 7x + 10 = 0, ¿cuál es la suma de sus raíces (x₁ + x₂)?",
+    "opciones": [
+      "10",
+      "-7",
+      "7",
+      "3"
+    ],
+    "respuesta_correcta": "7"
+  },
+  {
+    "item_id": "7b2e7bdf-9811-4b15-940e-6f6af3662096",
+    "concepto_id": "3_GEO_28",
+    "pregunta": "¿Cuál es la fórmula del área de un rectángulo?",
+    "opciones": [
+      "Lado * Lado",
+      "Base * Altura",
+      "(Base * Altura) / 2",
+      "2 * Base + 2 * Altura"
+    ],
+    "respuesta_correcta": "Base * Altura"
+  },
+  {
+    "pregunta": "¿Cuál de las siguientes afirmaciones es correcta con respecto a la media y la mediana de las calificaciones de un estudiante en 6 exámenes: 8, 7, 9, 10, 7, 8?",
+    "opciones": [
+      "La media y la mediana son iguales.",
+      "La media es mayor que la mediana.",
+      "La mediana es mayor que la media.",
+      "No se puede calcular la mediana porque hay un número par de datos."
+    ],
+    "respuesta_correcta": "La media es mayor que la mediana.",
+    "explicacion": "1. Para calcular la media, se suman todas las calificaciones y se divide por el total de datos: (8+7+9+10+7+8) / 6 = 49 / 6 ≈ 8.17.\n2. Para la mediana, primero se ordenan los datos de menor a mayor: 7, 7, 8, 8, 9, 10.\n3. Al ser un número par de datos, la mediana es el promedio de los dos valores centrales (el 3º y 4º): (8 + 8) / 2 = 8.\n4. Comparando ambos resultados, la media (≈8.17) es mayor que la mediana (8).",
+    "dificultad": "media",
+    "item_id": "d5b97252-173b-4a0c-93f5-c24033d346e3",
+    "concepto_id": "3_ARIT_25"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de simplificar la expresión algebraica 3(2x - 5) - 4(x - 2)?",
+    "opciones": [
+      "2x - 23",
+      "10x - 7",
+      "2x - 7",
+      "10x - 23"
+    ],
+    "respuesta_correcta": "2x - 7",
+    "explicacion": "1. Aplica la propiedad distributiva al primer término: 3 * 2x = 6x y 3 * -5 = -15. Se obtiene 6x - 15.\n2. Aplica la propiedad distributiva al segundo término, incluyendo el signo negativo: -4 * x = -4x y -4 * -2 = +8. Se obtiene -4x + 8.\n3. Junta los resultados: 6x - 15 - 4x + 8.\n4. Agrupa y suma los términos semejantes: (6x - 4x) + (-15 + 8), lo que resulta en 2x - 7.",
+    "dificultad": "media",
+    "item_id": "2d6e82a8-7075-4810-a55e-c1d2372f1322",
+    "concepto_id": "2_ALG_01"
+  }
+]
