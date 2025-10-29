@@ -1,7 +1,3 @@
-# api_motor_gemini.py — v0.9
-# Modelos separados TEXTO/JSON + Chat + Ítems + Microlección + Sugerencia adaptativa
-# FIX: NLU amplía comandos: reintentar, repasar [tema], avanzar [tema].
-
 import os, json, uuid, re, unicodedata
 import google.generativeai as genai
 from dotenv import load_dotenv
@@ -300,3 +296,4 @@ def sugerir_siguiente_concepto(estado_estudiante: dict) -> dict:
     except Exception as e:
         print("❌ Error en sugerir_siguiente_concepto:", e, getattr(r, "text", ""))
         return None
+
