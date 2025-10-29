@@ -1,4 +1,4 @@
-# Sabi — Tutor Inteligente (Pygame + IA)
+# Sabi — Tutor Inteligente
 
 Interfaz tipo WhatsApp construida en **Pygame** para practicar Matemática con un tutor IA (“Sabi”):
 - Chat pedagógico con **Gemini** (o modo **offline** con fallbacks).
@@ -12,7 +12,7 @@ Interfaz tipo WhatsApp construida en **Pygame** para practicar Matemática con u
 ---
 
 ## 🗂️ Estructura del proyecto
-<pre>
+```text
 ProyectoSABI/
 ├─ assets/
 │ ├─ sabi.png # Mascota (recomendado PNG con fondo transparente)
@@ -28,7 +28,7 @@ ProyectoSABI/
 ├─ requirements.txt
 ├─ .env.example
 └─ README.md
-
+```
 ---
 
 ## ⚙️ Requisitos
