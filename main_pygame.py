@@ -1,9 +1,4 @@
-# main_pygame.py — Pygame + Chat tipo WhatsApp + Intro de video (8s) + Lógica híbrida
-# - Tipografía robusta (evita "cuadritos" de caracteres).
-# - Chat mejor presentado (párrafos/viñetas) + avatar Sabi circular.
-# - Video de intro: assets/intro.(mp4|webm|mov|avi); fallback: animación con mascota.
-# - Panel de chat minimizable.
-
+# APP-Sabi
 import pygame
 import sys
 import os
@@ -17,7 +12,6 @@ import random
 import string
 import io
 from typing import Optional, Tuple
-
 
 # ====== Motores / Lógica común ======
 import api_motor_gemini as sabi  # NLU, chat, ítems, sugerencias
@@ -146,25 +140,22 @@ def match_tema(nodos: dict, mundo: str, grado: str, tema_texto: str):
     return scored[0][1]
 
 # Limpieza del texto del modelo para el chat
+import unicodedata
+
 def clean_text_for_chat(s: str) -> str:
     s = s or ""
-    # Elimina emojis y caracteres no ASCII imprimibles
-    s = s.encode('ascii', errors='ignore').decode('ascii')
-    # Quita caracteres de control y espaciales invisibles
-    replacements = {
-        "“": "\"", "”": "\"", "’": "'", "‘": "'",
-        "–": "-", "—": "-", "•": "·", "●": "·", "▪": "·", "◦": "·",
-        "\u00a0": " ", "\u200b": "", "\u200c": "", "\u200d": "", "\ufeff": ""
-    }
-    for k, v in replacements.items():
-        s = s.replace(k, v)
-    s = s.replace("**", "").replace("__", "")
+    # Elimina emojis y caracteres fuera del plano básico multilingüe.
+    s = "".join(ch for ch in s if unicodedata.category(ch)[0] not in ['C', 'S'])
+    # Normaliza bullets y saltos
+    s = s.replace("•", "-").replace("●", "-").replace("▪", "-").replace("◦", "-")
+    s = s.replace("\u2028", "\n").replace("\u2029", "\n")
+    s = s.replace("�", "")  # elimina reemplazos de caracter
+    s = s.replace("·", "-")
+    s = s.replace("–", "-").replace("—", "-")
+    s = s.replace("“", "\"").replace("”", "\"").replace("‘", "'").replace("’", "'")
+    # Quita doble espacio y saltos múltiples
     s = re.sub(r"\n{3,}", "\n\n", s)
-    s = re.sub(r"(?<=[\.!?])\s+(?=[A-ZÁÉÍÓÚÑ0-9])", "\n", s)
-    s = re.sub(r"^\s*-\s*", "· ", s, flags=re.M)
-    # Elimina cualquier caracter fuera del rango estándar español
-    allowed = string.ascii_letters + string.digits + string.punctuation + " áéíóúÁÉÍÓÚñÑ¿?¡!.,:;()[]{}<>\"'\\/+-*=_%\n"
-    s = "".join(c for c in s if c in allowed)
+    s = re.sub(r" +", " ", s)
     return s.strip()
 
 # =====================
@@ -455,6 +446,48 @@ def draw_text(surface, text, x, y, font, color=COLOR_TEXT, align="left", max_wid
         surface.blit(s, r)
         py += font.get_linesize()
     return py
+def draw_chat_bubble(surface, text, x, y, font, align_left=True, color_bg=(31, 42, 58), text_color=(255,255,255), avatar=None, max_bubble_w=280):
+    # Split and wrap lines
+    words = text.split()
+    lines = []
+    line = ""
+    for word in words:
+        test_line = (line + " " + word).strip()
+        if font.size(test_line)[0] <= max_bubble_w - 32:
+            line = test_line
+        else:
+            if line:
+                lines.append(line)
+            line = word
+    if line:
+        lines.append(line)
+
+    pad_x, pad_y = 16, 12
+    h = len(lines) * font.get_linesize() + 2 * pad_y
+    w = min(max_bubble_w, max(font.size(l)[0] for l in lines) + 2 * pad_x)
+
+    bx = x if align_left else x - w
+    by = y
+    bubble = pygame.Rect(bx, by, w, h)
+
+    # Fondo de burbuja
+    pygame.draw.rect(surface, color_bg, bubble, border_radius=12)
+    # Cola
+    if align_left:
+        tail = [(bx+12, by+h-10), (bx-8, by+h), (bx+12, by+h+10)]
+    else:
+        tail = [(bx+w-12, by+h-10), (bx+w+8, by+h), (bx+w-12, by+h+10)]
+    pygame.draw.polygon(surface, color_bg, tail)
+    # Avatar (solo a la izq)
+    if align_left and avatar:
+        surface.blit(avatar, (bx-42, by+h//2-18))
+    # Texto
+    ty = by + pad_y
+    for l in lines:
+        draw_text(surface, l, bx+pad_x, ty, font, text_color, "left")
+        ty += font.get_linesize()
+    return by + h + 14  # siguiente burbuja abajo
+
 
 def _pct_to_color_bg(p):
     if p < 0.4: return COLOR_RED_BG
@@ -699,53 +732,64 @@ def process_chat_message(msg: str, g, nodos, aristas, MUNDOS, GRADOS):
 
 def render_chat_panel(screen, g, FONT_REG, FONT_SMALL):
     ui = {}
+    CHAT_W = 360
+    CHAT_H = 540
+    panel  = pygame.Rect(0, 0, CHAT_W, SCREEN_HEIGHT)
+    pygame.draw.rect(screen, COLOR_PANEL, panel)
+
     if g["chat_minimized"]:
         open_btn = pygame.Rect(12, 12, 44, 44)
         pygame.draw.rect(screen, COLOR_PRIMARY, open_btn, border_radius=22)
-        draw_text(screen, "💬", open_btn.centerx, open_btn.centery-12, FONT_REG, (255,255,255), "center")
+        draw_text(screen, "Chat", open_btn.centerx, open_btn.centery-12, FONT_REG, (255,255,255), "center")
         ui["open"] = open_btn
         g["last_chat_ui"] = ui
         return ui
 
-    CHAT_W = 380
-    panel  = pygame.Rect(0, 0, CHAT_W, SCREEN_HEIGHT)
-    pygame.draw.rect(screen, COLOR_PANEL, panel)
-
+    # Header y avatar
     header = pygame.Rect(0, 0, CHAT_W, 54)
     pygame.draw.rect(screen, COLOR_HEADER, header)
-    # Avatar + título
     if g["mascota"]:
         screen.blit(g["mascota"], (10, 9))
     draw_text(screen, "Sabi · Conversación", 60, 14, FONT_REG, COLOR_TEXT, "left")
-    # Minimizar
     min_btn = pygame.Rect(CHAT_W-44, 8, 36, 36)
     pygame.draw.rect(screen, COLOR_MUTED, min_btn, border_radius=8)
     draw_text(screen, "—", min_btn.centerx, min_btn.centery-12, FONT_REG, (255,255,255), "center")
 
-    # Inbox
-    inbox = pygame.Rect(8, 60, CHAT_W-16, SCREEN_HEIGHT-60-68)
-    pygame.draw.rect(screen, COLOR_SURFACE, inbox, border_radius=10)
-    pygame.draw.rect(screen, COLOR_BORDER,  inbox, width=1, border_radius=10)
-
-    # Mensajes (bottom-up)
-    y = inbox.bottom - 10
-    max_bubble_w = inbox.width - 20
+    # ---- Mensajes scrollable ----
+    chat_rect = pygame.Rect(10, 60, CHAT_W, CHAT_H)
+    chat_surface = pygame.Surface((CHAT_W, CHAT_H), pygame.SRCALPHA)
+    chat_surface.fill(COLOR_SURFACE)
     msgs = g["chat_log"][-200:]
-    avatar = g["mascota_small"]
 
-    for role, content in reversed(msgs):
+    # Pre-render burbujas y scroll
+    # Render de burbujas autoajustables (scroll)
+    y = 12
+    max_bubble_w = int(CHAT_W * 0.78)  # Ej: ~280 si CHAT_W=360
+    for role, content in msgs:
         is_user = (role == "user")
         color_bg = COLOR_USER if is_user else COLOR_ASSIST
         text_col = (255,255,255)
-        if is_user:
-            y = render_bubble(screen, content, inbox.right - 12, y, FONT_REG, max_bubble_w, align_left=False,
-                              color_bg=color_bg, text_color=text_col, avatar=None)
-        else:
-            y = render_bubble(screen, content, inbox.x + 12 + 42, y, FONT_REG, max_bubble_w - 42, align_left=True,
-                              color_bg=color_bg, text_color=text_col, avatar=avatar)
-        if y < inbox.y + 8: break
+        align_left = not is_user
+        avatar = g["mascota_small"] if (align_left and g.get("mascota_small")) else None
+        x_bubble = 64 if align_left else CHAT_W - 24
+        y = draw_chat_bubble(chat_surface, clean_text_for_chat(content), x_bubble, y, FONT_REG, align_left, color_bg, text_col, avatar, max_bubble_w)
 
-    # Input
+    total_height = y + 12
+    scroll = g.get("chat_scroll", 0)
+    max_scroll = max(0, total_height - CHAT_H)
+    scroll = min(max(scroll, 0), max_scroll)
+    g["chat_scroll"] = scroll
+
+    # Scrollbar visual
+    if max_scroll > 0:
+        bar_height = max(int(CHAT_H * CHAT_H / total_height), 24)
+        bar_pos = int(CHAT_H * scroll / total_height)
+        pygame.draw.rect(chat_surface, COLOR_MUTED, (CHAT_W-12, bar_pos, 6, bar_height), border_radius=3)
+
+    # Blit de toda el área de chat
+    screen.blit(chat_surface, (10, 60))
+
+    # ---- Input (en ventana principal, fuera del chat_surface) ----
     input_rect = pygame.Rect(8, SCREEN_HEIGHT-60, CHAT_W-16-56, 52)
     pygame.draw.rect(screen, COLOR_SURFACE, input_rect, border_radius=10)
     pygame.draw.rect(screen, COLOR_BORDER,  input_rect, width=1, border_radius=10)
@@ -756,7 +800,8 @@ def render_chat_panel(screen, g, FONT_REG, FONT_SMALL):
     pygame.draw.rect(screen, COLOR_PRIMARY, send_btn, border_radius=10)
     draw_text(screen, "➤", send_btn.centerx, send_btn.centery-12, FONT_REG, (255,255,255), "center")
 
-    ui.update({"panel": panel, "min": min_btn, "inbox": inbox, "input": input_rect, "send": send_btn})
+    # Registra los rects para eventos
+    ui.update({"panel": panel, "min": min_btn, "inbox": chat_rect, "input": input_rect, "send": send_btn})
     g["last_chat_ui"] = ui
     return ui
 
