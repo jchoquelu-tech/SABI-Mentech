@@ -12,6 +12,7 @@ Interfaz tipo WhatsApp construida en **Pygame** para practicar Matemática con u
 ---
 
 ## 🗂️ Estructura del proyecto
+<pre>
 ProyectoSABI/
 ├─ assets/
 │ ├─ sabi.png # Mascota (recomendado PNG con fondo transparente)
